@@ -1,0 +1,400 @@
+107560 13445 35740 13445
+216 27 72 27
+Cuda Enabled!
+Currently active GPU: 0
+Class Conditioned Softmax
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.01 , {0: tensor(5.4359e-07), 1: tensor(1.3271e-06), 2: tensor(1.3507e-06), 3: tensor(6.9861e-05), 4: tensor(3.8946e-06), 5: tensor(2.0439e-07)} , tensor([[0., 1., 1., 1., 0., 0.]]) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.05 , {0: tensor(0.0001), 1: tensor(0.0100), 2: tensor(0.0056), 3: tensor(0.0904), 4: tensor(0.0032), 5: tensor(0.0016)} , tensor([[0., 1., 0., 1., 0., 0.]]) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.1 , {0: tensor(0.0027), 1: tensor(0.3691), 2: tensor(0.1480), 3: tensor(0.8148), 4: tensor(0.1259), 5: tensor(0.0526)} , tensor([[0., 1., 0., 0., 0., 0.]]) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.15 , {0: tensor(0.0281), 1: tensor(0.6260), 2: tensor(0.6869), 3: tensor(0.9834), 4: tensor(0.5565), 5: tensor(0.3608)} , tensor([[0., 0., 0., 0., 0., 0.]]) , 1
+Time: 43.200157165527344
+Class Conditioned Covariate Softmax
+torch.Size([13445, 21])
+torch.Size([13445, 21, 32])
+torch.Size([13445, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+torch.Size([35740, 8])
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.01 , {0: tensor(1.8921e-11), 1: tensor(1.5935e-11), 2: tensor(2.7832e-11), 3: tensor(1.3520e-09), 4: tensor(1.8607e-10), 5: tensor(5.3694e-12)} , tensor([[0., 1., 1., 1., 0., 1.]], dtype=torch.float64) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.05 , {0: tensor(4.1031e-09), 1: tensor(1.1773e-07), 2: tensor(8.5628e-08), 3: tensor(3.1731e-07), 4: tensor(5.9372e-08), 5: tensor(2.7253e-08)} , tensor([[0., 1., 1., 1., 0., 0.]], dtype=torch.float64) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.1 , {0: tensor(6.6377e-08), 1: tensor(1.6398e-06), 2: tensor(9.2956e-07), 3: tensor(2.4150e-06), 4: tensor(8.4438e-07), 5: tensor(3.8070e-07)} , tensor([[0., 1., 0., 1., 0., 0.]], dtype=torch.float64) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.15 , {0: tensor(4.6363e-07), 1: tensor(4.8933e-06), 2: tensor(2.9619e-06), 3: tensor(5.2485e-06), 4: tensor(2.7215e-06), 5: tensor(1.6908e-06)} , tensor([[0., 1., 0., 1., 0., 0.]], dtype=torch.float64) , 1
+Time: 178.28972959518433
+Class Conditioned Class Specific Covariate Softmax
+torch.Size([2978, 21])
+torch.Size([2978, 21, 32])
+Epoch [1/25] Loss: 0.06923483312129974
+Epoch [2/25] Loss: 0.0672046293814977
+Epoch [3/25] Loss: 0.06525805840889613
+Epoch [4/25] Loss: 0.06339165816704433
+Epoch [5/25] Loss: 0.061596065759658813
+Epoch [6/25] Loss: 0.059868037700653076
+Epoch [7/25] Loss: 0.058194149285554886
+Epoch [8/25] Loss: 0.05657732610901197
+Epoch [9/25] Loss: 0.05500039458274841
+Epoch [10/25] Loss: 0.053469881415367126
+Epoch [11/25] Loss: 0.051982915649811424
+Epoch [12/25] Loss: 0.050543700655301414
+Epoch [13/25] Loss: 0.049146571507056556
+Epoch [14/25] Loss: 0.047790090243021645
+Epoch [15/25] Loss: 0.04648901025454203
+Epoch [16/25] Loss: 0.04523904497424761
+Epoch [17/25] Loss: 0.04403564085563024
+Epoch [18/25] Loss: 0.04288110633691152
+Epoch [19/25] Loss: 0.04178329557180405
+Epoch [20/25] Loss: 0.040735589961210884
+Epoch [21/25] Loss: 0.039732497185468674
+Epoch [22/25] Loss: 0.038786141822735466
+Epoch [23/25] Loss: 0.03788097451130549
+Epoch [24/25] Loss: 0.03702012076973915
+Epoch [25/25] Loss: 0.03620893011490504
+Training complete
+torch.Size([2978, 8])
+torch.Size([3394, 21])
+torch.Size([3394, 21, 32])
+Epoch [1/25] Loss: 0.08324260264635086
+Epoch [2/25] Loss: 0.07993407733738422
+Epoch [3/25] Loss: 0.07676474004983902
+Epoch [4/25] Loss: 0.07416804879903793
+Epoch [5/25] Loss: 0.07154827006161213
+Epoch [6/25] Loss: 0.06900236941874027
+Epoch [7/25] Loss: 0.06644404493272305
+Epoch [8/25] Loss: 0.06432058475911617
+Epoch [9/25] Loss: 0.06213862355798483
+Epoch [10/25] Loss: 0.05980862211436033
+Epoch [11/25] Loss: 0.057792121544480324
+Epoch [12/25] Loss: 0.05552828125655651
+Epoch [13/25] Loss: 0.05358579009771347
+Epoch [14/25] Loss: 0.05177068989723921
+Epoch [15/25] Loss: 0.04975761100649834
+Epoch [16/25] Loss: 0.04780480731278658
+Epoch [17/25] Loss: 0.04607432149350643
+Epoch [18/25] Loss: 0.044372133910655975
+Epoch [19/25] Loss: 0.042587727308273315
+Epoch [20/25] Loss: 0.04114583320915699
+Epoch [21/25] Loss: 0.03962945006787777
+Epoch [22/25] Loss: 0.03804755862802267
+Epoch [23/25] Loss: 0.036618382669985294
+Epoch [24/25] Loss: 0.03559733275324106
+Epoch [25/25] Loss: 0.034374749287962914
+Training complete
+torch.Size([3394, 8])
+torch.Size([1726, 21])
+torch.Size([1726, 21, 32])
+Epoch [1/25] Loss: 0.08636783435940742
+Epoch [2/25] Loss: 0.08535940200090408
+Epoch [3/25] Loss: 0.08397305384278297
+Epoch [4/25] Loss: 0.08290670067071915
+Epoch [5/25] Loss: 0.08183320239186287
+Epoch [6/25] Loss: 0.08065712824463844
+Epoch [7/25] Loss: 0.07956094667315483
+Epoch [8/25] Loss: 0.07879208400845528
+Epoch [9/25] Loss: 0.07778385654091835
+Epoch [10/25] Loss: 0.07671158388257027
+Epoch [11/25] Loss: 0.07580455020070076
+Epoch [12/25] Loss: 0.074895940721035
+Epoch [13/25] Loss: 0.07408531382679939
+Epoch [14/25] Loss: 0.07335396856069565
+Epoch [15/25] Loss: 0.07242530956864357
+Epoch [16/25] Loss: 0.07163804024457932
+Epoch [17/25] Loss: 0.07082750275731087
+Epoch [18/25] Loss: 0.07006430625915527
+Epoch [19/25] Loss: 0.06934588775038719
+Epoch [20/25] Loss: 0.06859523802995682
+Epoch [21/25] Loss: 0.0678136982023716
+Epoch [22/25] Loss: 0.06709207221865654
+Epoch [23/25] Loss: 0.06634282320737839
+Epoch [24/25] Loss: 0.06557503342628479
+Epoch [25/25] Loss: 0.06495755538344383
+Training complete
+torch.Size([1726, 8])
+torch.Size([1746, 21])
+torch.Size([1746, 21, 32])
+Epoch [1/25] Loss: 0.08200060948729515
+Epoch [2/25] Loss: 0.08050637692213058
+Epoch [3/25] Loss: 0.07899687066674232
+Epoch [4/25] Loss: 0.07769353687763214
+Epoch [5/25] Loss: 0.07620847225189209
+Epoch [6/25] Loss: 0.07498975843191147
+Epoch [7/25] Loss: 0.07368486374616623
+Epoch [8/25] Loss: 0.07239735499024391
+Epoch [9/25] Loss: 0.07117898762226105
+Epoch [10/25] Loss: 0.07004042714834213
+Epoch [11/25] Loss: 0.06884053722023964
+Epoch [12/25] Loss: 0.06766897812485695
+Epoch [13/25] Loss: 0.06646206229925156
+Epoch [14/25] Loss: 0.06539847701787949
+Epoch [15/25] Loss: 0.06428300216794014
+Epoch [16/25] Loss: 0.0631740503013134
+Epoch [17/25] Loss: 0.06210598908364773
+Epoch [18/25] Loss: 0.06101930886507034
+Epoch [19/25] Loss: 0.05992169305682182
+Epoch [20/25] Loss: 0.05883698910474777
+Epoch [21/25] Loss: 0.0577898733317852
+Epoch [22/25] Loss: 0.056643171235919
+Epoch [23/25] Loss: 0.05562038719654083
+Epoch [24/25] Loss: 0.05463315732777119
+Epoch [25/25] Loss: 0.05365905165672302
+Training complete
+torch.Size([1746, 8])
+torch.Size([1644, 21])
+torch.Size([1644, 21, 32])
+Epoch [1/25] Loss: 0.06883519515395164
+Epoch [2/25] Loss: 0.06712879985570908
+Epoch [3/25] Loss: 0.0658969096839428
+Epoch [4/25] Loss: 0.06444871053099632
+Epoch [5/25] Loss: 0.06311522983014584
+Epoch [6/25] Loss: 0.06198984198272228
+Epoch [7/25] Loss: 0.06057536602020264
+Epoch [8/25] Loss: 0.05944252945482731
+Epoch [9/25] Loss: 0.058504994958639145
+Epoch [10/25] Loss: 0.05738925375044346
+Epoch [11/25] Loss: 0.056383637711405754
+Epoch [12/25] Loss: 0.05531059205532074
+Epoch [13/25] Loss: 0.054289355874061584
+Epoch [14/25] Loss: 0.053366897627711296
+Epoch [15/25] Loss: 0.05251005105674267
+Epoch [16/25] Loss: 0.0515441931784153
+Epoch [17/25] Loss: 0.05078878812491894
+Epoch [18/25] Loss: 0.050036508589982986
+Epoch [19/25] Loss: 0.049183422699570656
+Epoch [20/25] Loss: 0.0484051164239645
+Epoch [21/25] Loss: 0.04760555550456047
+Epoch [22/25] Loss: 0.046877749264240265
+Epoch [23/25] Loss: 0.046249113976955414
+Epoch [24/25] Loss: 0.04547643102705479
+Epoch [25/25] Loss: 0.04467141442000866
+Training complete
+torch.Size([1644, 8])
+torch.Size([1957, 21])
+torch.Size([1957, 21, 32])
+Epoch [1/25] Loss: 0.08448571711778641
+Epoch [2/25] Loss: 0.08310229703783989
+Epoch [3/25] Loss: 0.08175477758049965
+Epoch [4/25] Loss: 0.0804436132311821
+Epoch [5/25] Loss: 0.07916870713233948
+Epoch [6/25] Loss: 0.07794028520584106
+Epoch [7/25] Loss: 0.0767415203154087
+Epoch [8/25] Loss: 0.075565405189991
+Epoch [9/25] Loss: 0.07440418004989624
+Epoch [10/25] Loss: 0.07329320907592773
+Epoch [11/25] Loss: 0.07218683883547783
+Epoch [12/25] Loss: 0.07110130414366722
+Epoch [13/25] Loss: 0.07004692405462265
+Epoch [14/25] Loss: 0.0689903274178505
+Epoch [15/25] Loss: 0.06795842945575714
+Epoch [16/25] Loss: 0.06695901602506638
+Epoch [17/25] Loss: 0.0659419596195221
+Epoch [18/25] Loss: 0.06496232375502586
+Epoch [19/25] Loss: 0.06399887800216675
+Epoch [20/25] Loss: 0.06303922086954117
+Epoch [21/25] Loss: 0.06208484619855881
+Epoch [22/25] Loss: 0.061139317229390144
+Epoch [23/25] Loss: 0.060208510607481
+Epoch [24/25] Loss: 0.059295689687132835
+Epoch [25/25] Loss: 0.05837851017713547
+Training complete
+torch.Size([1957, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+Epoch [1/25] Loss: 0.05721623181468911
+Epoch [2/25] Loss: 0.0418613955585493
+Epoch [3/25] Loss: 0.03202811416445507
+Epoch [4/25] Loss: 0.026927714546521504
+Epoch [5/25] Loss: 0.024390626646992233
+Epoch [6/25] Loss: 0.022864931107809145
+Epoch [7/25] Loss: 0.021746936461163893
+Epoch [8/25] Loss: 0.020717345385087862
+Epoch [9/25] Loss: 0.01957504999720388
+Epoch [10/25] Loss: 0.018500433251675632
+Epoch [11/25] Loss: 0.017723150447838835
+Epoch [12/25] Loss: 0.017180344245086115
+Epoch [13/25] Loss: 0.016764379313422575
+Epoch [14/25] Loss: 0.01642193945331706
+Epoch [15/25] Loss: 0.016127364399532478
+Epoch [16/25] Loss: 0.015877301080359355
+Epoch [17/25] Loss: 0.015651688057308395
+Epoch [18/25] Loss: 0.015455395086771913
+Epoch [19/25] Loss: 0.015281818522554304
+Epoch [20/25] Loss: 0.015121369467427334
+Epoch [21/25] Loss: 0.014980437441004647
+Epoch [22/25] Loss: 0.014846910826034017
+Epoch [23/25] Loss: 0.014727810475354394
+Epoch [24/25] Loss: 0.014617119165551331
+Epoch [25/25] Loss: 0.0145216208572189
+Training complete
+torch.Size([35740, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+Epoch [1/25] Loss: 0.05897015602224403
+Epoch [2/25] Loss: 0.044823252595961094
+Epoch [3/25] Loss: 0.03385512623935938
+Epoch [4/25] Loss: 0.02689921674836013
+Epoch [5/25] Loss: 0.023446737736877468
+Epoch [6/25] Loss: 0.02162107778713107
+Epoch [7/25] Loss: 0.020263613460378513
+Epoch [8/25] Loss: 0.01911366953411036
+Epoch [9/25] Loss: 0.018151883812000353
+Epoch [10/25] Loss: 0.017356308228853676
+Epoch [11/25] Loss: 0.01671999568740527
+Epoch [12/25] Loss: 0.01622290298756626
+Epoch [13/25] Loss: 0.015835032720739644
+Epoch [14/25] Loss: 0.015523020152209533
+Epoch [15/25] Loss: 0.015270508204897245
+Epoch [16/25] Loss: 0.01506253469011022
+Epoch [17/25] Loss: 0.014887000925631987
+Epoch [18/25] Loss: 0.01474468081465198
+Epoch [19/25] Loss: 0.014616664059253203
+Epoch [20/25] Loss: 0.014506899803462956
+Epoch [21/25] Loss: 0.01441526459529996
+Epoch [22/25] Loss: 0.014333681462125646
+Epoch [23/25] Loss: 0.01426078133388526
+Epoch [24/25] Loss: 0.014195148082863953
+Epoch [25/25] Loss: 0.014138871803879738
+Training complete
+torch.Size([35740, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+Epoch [1/25] Loss: 0.06030251541071468
+Epoch [2/25] Loss: 0.04353031609207392
+Epoch [3/25] Loss: 0.032265589469008975
+Epoch [4/25] Loss: 0.026357196737080812
+Epoch [5/25] Loss: 0.023438171845757298
+Epoch [6/25] Loss: 0.021724478496859472
+Epoch [7/25] Loss: 0.020528970337990258
+Epoch [8/25] Loss: 0.019614901962793536
+Epoch [9/25] Loss: 0.018892445653263066
+Epoch [10/25] Loss: 0.01829561239315404
+Epoch [11/25] Loss: 0.017789933727019362
+Epoch [12/25] Loss: 0.017353170447879367
+Epoch [13/25] Loss: 0.01696688759451111
+Epoch [14/25] Loss: 0.016626460219009057
+Epoch [15/25] Loss: 0.016322229471471574
+Epoch [16/25] Loss: 0.016048897782133684
+Epoch [17/25] Loss: 0.015804979355177946
+Epoch [18/25] Loss: 0.015590830007568002
+Epoch [19/25] Loss: 0.015395269418756167
+Epoch [20/25] Loss: 0.015221923977757493
+Epoch [21/25] Loss: 0.015068700045554174
+Epoch [22/25] Loss: 0.014927847621341547
+Epoch [23/25] Loss: 0.014800861581332155
+Epoch [24/25] Loss: 0.014688567103197178
+Epoch [25/25] Loss: 0.014582440438162949
+Training complete
+torch.Size([35740, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+Epoch [1/25] Loss: 0.05543354960779349
+Epoch [2/25] Loss: 0.04187923607726892
+Epoch [3/25] Loss: 0.03280708483523793
+Epoch [4/25] Loss: 0.02770941135370069
+Epoch [5/25] Loss: 0.02506951227163275
+Epoch [6/25] Loss: 0.023608514418204624
+Epoch [7/25] Loss: 0.022630585719727807
+Epoch [8/25] Loss: 0.021861731592151854
+Epoch [9/25] Loss: 0.021220920969628625
+Epoch [10/25] Loss: 0.02065261360257864
+Epoch [11/25] Loss: 0.02014315754382147
+Epoch [12/25] Loss: 0.019677507742825482
+Epoch [13/25] Loss: 0.019259918946772814
+Epoch [14/25] Loss: 0.01888851003928317
+Epoch [15/25] Loss: 0.01853790760247244
+Epoch [16/25] Loss: 0.018110472812420793
+Epoch [17/25] Loss: 0.017498898268159892
+Epoch [18/25] Loss: 0.016939549292955134
+Epoch [19/25] Loss: 0.016603081487119198
+Epoch [20/25] Loss: 0.016351200381500855
+Epoch [21/25] Loss: 0.016131880072255928
+Epoch [22/25] Loss: 0.015939150005578995
+Epoch [23/25] Loss: 0.01577389129023585
+Epoch [24/25] Loss: 0.015629551735603146
+Epoch [25/25] Loss: 0.015511537410525812
+Training complete
+torch.Size([35740, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+Epoch [1/25] Loss: 0.0688222697418597
+Epoch [2/25] Loss: 0.049805800740917526
+Epoch [3/25] Loss: 0.03588568176039391
+Epoch [4/25] Loss: 0.028394307061615918
+Epoch [5/25] Loss: 0.025195073957244556
+Epoch [6/25] Loss: 0.023542620810783572
+Epoch [7/25] Loss: 0.022420644190990262
+Epoch [8/25] Loss: 0.02154447107265393
+Epoch [9/25] Loss: 0.020803058985620737
+Epoch [10/25] Loss: 0.020174054687635765
+Epoch [11/25] Loss: 0.01962562029560407
+Epoch [12/25] Loss: 0.019147041046784982
+Epoch [13/25] Loss: 0.018730451973776024
+Epoch [14/25] Loss: 0.018359524767018028
+Epoch [15/25] Loss: 0.01801862008869648
+Epoch [16/25] Loss: 0.017576224636286497
+Epoch [17/25] Loss: 0.016846136810878914
+Epoch [18/25] Loss: 0.016212946580102045
+Epoch [19/25] Loss: 0.01582776855987807
+Epoch [20/25] Loss: 0.015553605509921908
+Epoch [21/25] Loss: 0.015343600806469718
+Epoch [22/25] Loss: 0.015173382798416747
+Epoch [23/25] Loss: 0.015033561865695648
+Epoch [24/25] Loss: 0.014909412013366818
+Epoch [25/25] Loss: 0.01480305207789772
+Training complete
+torch.Size([35740, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+Epoch [1/25] Loss: 0.06601165224694544
+Epoch [2/25] Loss: 0.047275466533998646
+Epoch [3/25] Loss: 0.034906898625195026
+Epoch [4/25] Loss: 0.027741941054248147
+Epoch [5/25] Loss: 0.024194047993255988
+Epoch [6/25] Loss: 0.022453018981549475
+Epoch [7/25] Loss: 0.02136968904071384
+Epoch [8/25] Loss: 0.020526036102738645
+Epoch [9/25] Loss: 0.019805748636523884
+Epoch [10/25] Loss: 0.019174008061074548
+Epoch [11/25] Loss: 0.018598807975649834
+Epoch [12/25] Loss: 0.018085123712403908
+Epoch [13/25] Loss: 0.01762394265582164
+Epoch [14/25] Loss: 0.01721165846619341
+Epoch [15/25] Loss: 0.016842164513137605
+Epoch [16/25] Loss: 0.01651787519868877
+Epoch [17/25] Loss: 0.016221913043409586
+Epoch [18/25] Loss: 0.01596150862880879
+Epoch [19/25] Loss: 0.015720645353818934
+Epoch [20/25] Loss: 0.015506488478018178
+Epoch [21/25] Loss: 0.015312845922178693
+Epoch [22/25] Loss: 0.015134058556415968
+Epoch [23/25] Loss: 0.014970249315309856
+Epoch [24/25] Loss: 0.014823848304028312
+Epoch [25/25] Loss: 0.014689000685595803
+Training complete
+torch.Size([35740, 8])
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.01 , {0: tensor(5.4359e-07), 1: tensor(1.3271e-06), 2: tensor(1.3507e-06), 3: tensor(6.9861e-05), 4: tensor(3.8946e-06), 5: tensor(2.0439e-07)} , tensor([[0., 1., 1., 1., 0., 0.]]) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.05 , {0: tensor(0.0001), 1: tensor(0.0100), 2: tensor(0.0056), 3: tensor(0.0904), 4: tensor(0.0032), 5: tensor(0.0016)} , tensor([[0., 1., 0., 1., 0., 0.]]) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.1 , {0: tensor(0.0027), 1: tensor(0.3691), 2: tensor(0.1480), 3: tensor(0.8148), 4: tensor(0.1259), 5: tensor(0.0526)} , tensor([[0., 1., 0., 0., 0., 0.]]) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.15 , {0: tensor(0.0281), 1: tensor(0.6260), 2: tensor(0.6869), 3: tensor(0.9834), 4: tensor(0.5565), 5: tensor(0.3608)} , tensor([[0., 0., 0., 0., 0., 0.]]) , 1
+Time: 31.358691453933716

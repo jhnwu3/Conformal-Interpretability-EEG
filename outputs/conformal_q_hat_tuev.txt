@@ -1,0 +1,83 @@
+train sub 288
+73494 9576 29421
+117 20 59 29
+Cuda Enabled!
+Currently active GPU: 0
+GradCam++ Softmax Drop
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(-0.4320)
+scores: tensor(0.0004)
+tensor(-0.0010)
+tensor(-0.0001)
+0.01 , tensor(-0.4320) , tensor([[True, True, True, True, True, True]]) , 1
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(-0.0205)
+scores: tensor(0.0004)
+tensor(-0.0010)
+tensor(-0.0001)
+0.05 , tensor(-0.0205) , tensor([[True, True, True, True, True, True]]) , 1
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(-0.0021)
+scores: tensor(0.0004)
+tensor(-0.0010)
+tensor(-0.0001)
+0.1 , tensor(-0.0021) , tensor([[True, True, True, True, True, True]]) , 1
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(-0.0003)
+scores: tensor(0.0004)
+tensor(-0.0010)
+tensor(-0.0001)
+0.15 , tensor(-0.0003) , tensor([[ True,  True,  True,  True, False,  True]]) , 1
+Time: 102.22565722465515
+SOFTMAX
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(0.0004)
+scores: tensor(1.0000)
+tensor(2.6505e-12)
+tensor(0.1667)
+0.01 , tensor(0.0004) , tensor([False, False, False, False, False,  True]) , 6
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(0.7159)
+scores: tensor(1.0000)
+tensor(2.6505e-12)
+tensor(0.1667)
+0.05 , tensor(0.7159) , tensor([False, False, False, False, False,  True]) , 6
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(0.9374)
+scores: tensor(1.0000)
+tensor(2.6505e-12)
+tensor(0.1667)
+0.1 , tensor(0.9374) , tensor([False, False, False, False, False,  True]) , 6
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(0.9815)
+scores: tensor(1.0000)
+tensor(2.6505e-12)
+tensor(0.1667)
+0.15 , tensor(0.9815) , tensor([False, False, False, False, False,  True]) , 6
+Time: 21.586827516555786
+MORF
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(-0.2475)
+scores: tensor(0.0017)
+tensor(-0.0033)
+tensor(-0.0003)
+0.01 , tensor(-0.2475) , tensor([[True, True, True, True, True, True]]) , 1
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(-7.2153e-08)
+scores: tensor(0.0017)
+tensor(-0.0033)
+tensor(-0.0003)
+0.05 , tensor(-7.2153e-08) , tensor([[ True,  True,  True,  True, False,  True]]) , 1
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(0.0029)
+scores: tensor(0.0017)
+tensor(-0.0033)
+tensor(-0.0003)
+0.1 , tensor(0.0029) , tensor([[False, False, False, False, False, False]]) , 1
+alpha, q_hat, prediction set, prediction set length
+q_hat: tensor(0.0137)
+scores: tensor(0.0017)
+tensor(-0.0033)
+tensor(-0.0003)
+0.15 , tensor(0.0137) , tensor([[False, False, False, False, False, False]]) , 1
+Time: 135.1317629814148

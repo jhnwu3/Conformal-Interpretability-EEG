@@ -1,0 +1,9 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.importFormat": "absolute",
+    "python.autoComplete.extraPaths": [
+        "../../"
+    ],
+    "python.languageServer": "Default"
+}

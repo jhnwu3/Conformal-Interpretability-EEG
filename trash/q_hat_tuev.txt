@@ -1,0 +1,15 @@
+train sub 288
+77082 5988 29421
+123 12 59 31
+Cuda Enabled!
+Currently active GPU: 0
+ROAD
+alpha, q_hat, prediction set, prediction set length
+0.01 , tensor(-0.2638) , tensor([[True, True, True, True, True, True]], device='cuda:0') , 1
+alpha, q_hat, prediction set, prediction set length
+0.05 , tensor(-0.0016) , tensor([[ True, False,  True, False, False,  True]], device='cuda:0') , 1
+alpha, q_hat, prediction set, prediction set length
+0.1 , tensor(8.7023e-05) , tensor([[False, False, False, False, False,  True]], device='cuda:0') , 1
+alpha, q_hat, prediction set, prediction set length
+0.15 , tensor(0.0010) , tensor([[False, False, False, False, False,  True]], device='cuda:0') , 1
+Time: 6814.374863624573

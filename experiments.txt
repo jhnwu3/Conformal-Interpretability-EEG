@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/home/johnwu3/Projects/interpretability/conformal_q_hat_IIIC.py", line 230, in <module>
+    kde_cals, kde_tests = get_class_relevance_kdes(cal_loader, test_loader, interpreter, kde_dim=4, nEpochs=30, to_save_paths_cal=to_saved_paths_kde_cal, to_save_paths_test=to_saved_paths_kde_test)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/uq/kde.py", line 97, in get_class_relevance_kdes
+    test_kdes = get_test_kdes(interpreter, test_loader, k=k, nEpochs=nEpochs, kde_dim=kde_dim, saved_paths=saved_paths_test, to_save_paths=to_save_paths_test)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/uq/kde.py", line 123, in get_test_kdes
+    relevances.append(interpreter.get_relevance_matrix(batch, indices[:,i]))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/interpret/chefer.py", line 79, in get_relevance_matrix
+    one_hot = F.one_hot(index, output.size()[1]).float()
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: one_hot is only applicable to index tensor.

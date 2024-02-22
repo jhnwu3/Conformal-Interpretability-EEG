@@ -1,0 +1,483 @@
+Exception ignored in: <function _releaseLock at 0x7f9b662556c0>
+Traceback (most recent call last):
+  File "/home/johnwu3/miniconda3/lib/python3.11/logging/__init__.py", line 237, in _releaseLock
+    def _releaseLock():
+    
+KeyboardInterrupt: 
+Traceback (most recent call last):
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/utils/data/dataloader.py", line 1132, in _try_get_data
+    data = self._data_queue.get(timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/multiprocessing/queues.py", line 114, in get
+    raise Empty
+_queue.Empty
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/johnwu3/Projects/interpretability/conformal_q_hat_IIIC.py", line 211, in <module>
+    kde_cals, kde_tests = get_class_relevance_kdes(cal_loader, test_loader, interpreter, nEpochs=25, to_save_paths_cal=to_saved_paths_kde_cal, to_save_paths_test=to_saved_paths_kde_test)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/uq/kde.py", line 81, in get_class_relevance_kdes
+    cal_kdes[key] = RelevanceDensityEstimator(interpreter, dataloader, k=k, nEpochs=nEpochs, class_index=torch.tensor(key), saved_path=saved_paths_cal[key], to_save_path=to_save_paths_cal[key])
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/uq/kde.py", line 121, in __init__
+    self.aenc = train_autoencoder(self.dataloader, input_dim=self.dataset[0].size()[-1],
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/models/autoencoder.py", line 116, in train_autoencoder
+    for batch_data in dataloader:
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/utils/data/dataloader.py", line 633, in __next__
+    data = self._next_data()
+           ^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/utils/data/dataloader.py", line 1328, in _next_data
+    idx, data = self._get_data()
+                ^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/utils/data/dataloader.py", line 1294, in _get_data
+    success, data = self._try_get_data()
+                    ^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/utils/data/dataloader.py", line 1145, in _try_get_data
+    raise RuntimeError('DataLoader worker (pid(s) {}) exited unexpectedly'.format(pids_str)) from e
+RuntimeError: DataLoader worker (pid(s) 93539, 93602, 93666, 93729, 93795, 93859, 93922, 93986, 94049, 94114, 94177, 94242, 94306, 94372, 94437, 94500, 94564) exited unexpectedly
+Traceback (most recent call last):
+  File "/home/johnwu3/Projects/interpretability/conformal_q_hat_IIIC.py", line 175, in <module>
+    q_hat = cal.calibrate(cal_loader, alpha)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/uq/class_conditional.py", line 61, in calibrate
+    score = self.scorer.cal_score(input=signal, class_index = label) # should return a scalar
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/uq/conformity.py", line 39, in cal_score
+    return self.interpreter.model(input.to(self.interpreter.device)).softmax(1).squeeze().gather(1, class_index.to(self.interpreter.device).unsqueeze(1)).squeeze().detach()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/models/st_transformer.py", line 300, in forward
+    x = self.patch_embedding(x)
+        ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/models/st_transformer.py", line 23, in forward
+    x = self.projection(x)
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/nn/modules/container.py", line 217, in forward
+    input = module(input)
+            ^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/nn/modules/conv.py", line 313, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/site-packages/torch/nn/modules/conv.py", line 309, in _conv_forward
+    return F.conv1d(input, weight, bias, self.stride,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+Exception ignored in atexit callback: <function _exit_function at 0x7f5564787560>
+Traceback (most recent call last):
+  File "/home/johnwu3/miniconda3/lib/python3.11/multiprocessing/util.py", line 357, in _exit_function
+    p.join()
+  File "/home/johnwu3/miniconda3/lib/python3.11/multiprocessing/process.py", line 149, in join
+    res = self._popen.wait(timeout)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/multiprocessing/popen_fork.py", line 43, in wait
+    return self.poll(os.WNOHANG if timeout == 0.0 else 0)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/miniconda3/lib/python3.11/multiprocessing/popen_fork.py", line 27, in poll
+    pid, sts = os.waitpid(self.pid, flag)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt: 
+107560 13445 35740 13445
+216 27 72 27
+Cuda Enabled!
+Currently active GPU: 0
+Class Conditional Attention Covariate Shift Test Run!
+torch.Size([13445, 21])
+torch.Size([13445, 21, 32])
+torch.Size([13445, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+torch.Size([35740, 8])
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.01 , {0: tensor(3.1234e-05), 1: tensor(0.0023), 2: tensor(0.0093), 3: tensor(0.2857), 4: tensor(0.0068), 5: tensor(0.0028)} , tensor([[1., 1., 0., 1., 0., 0.]]) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.05 , {0: tensor(0.1666), 1: tensor(0.9789), 2: tensor(0.9740), 3: tensor(1.0000), 4: tensor(0.9992), 5: tensor(0.9883)} , tensor([[1., 0., 0., 0., 0., 0.]]) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.1 , {0: tensor(0.9882), 1: tensor(0.9998), 2: tensor(1.0000), 3: tensor(1.), 4: tensor(1.), 5: tensor(1.0000)} , tensor([[0., 0., 0., 0., 0., 0.]]) , 1
+Traceback (most recent call last):
+  File "/home/johnwu3/Projects/interpretability/conformal_q_hat_IIIC.py", line 175, in <module>
+    q_hat = cal.calibrate(cal_loader, alpha)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/uq/class_conditional.py", line 102, in calibrate
+    q_hat = _query_weighted_quantile_torch(value, q_level, class_weights[key])
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/johnwu3/Projects/interpretability/uq/class_conditional.py", line 342, in _query_weighted_quantile_torch
+    return sorted_scores[idx]
+           ~~~~~~~~~~~~~^^^^^
+IndexError: index 1726 is out of bounds for dimension 0 with size 1726
+107560 13445 35740 13445
+216 27 72 27
+Cuda Enabled!
+Currently active GPU: 0
+Class Conditional Attention Covariate Shift Test Run!
+torch.Size([13445, 21])
+torch.Size([13445, 21, 32])
+torch.Size([13445, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+torch.Size([35740, 8])
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.01 , {0: tensor(2.9929e-05), 1: tensor(0.0022), 2: tensor(0.0085), 3: tensor(0.2798), 4: tensor(0.0064), 5: tensor(0.0028)} , tensor([[1., 1., 0., 1., 0., 0.]]) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.05 , {0: tensor(0.1658), 1: tensor(0.9789), 2: tensor(0.9739), 3: tensor(0.9999), 4: tensor(0.9992), 5: tensor(0.9880)} , tensor([[1., 0., 0., 0., 0., 0.]]) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.1 , {0: tensor(0.9881), 1: tensor(0.9998), 2: tensor(1.0000), 3: tensor(1.), 4: tensor(1.), 5: tensor(1.0000)} , tensor([[0., 0., 0., 0., 0., 0.]]) , 1
+dict_keys([0, 1, 2, 3, 4, 5])
+alpha, q_hat, prediction set, prediction set length
+0.15 , {0: tensor(0.9998), 1: tensor(1.0000), 2: tensor(1.), 3: tensor(1.), 4: tensor(1.), 5: tensor(1.)} , tensor([[0., 0., 0., 0., 0., 0.]]) , 1
+Time: 349.03990864753723
+Relevance Covariate Shift Test Run!
+torch.Size([13445, 21])
+torch.Size([13445, 21, 32])
+Epoch [1/50] Loss: 0.07950027074132647
+Epoch [2/50] Loss: 0.07508049373115812
+Epoch [3/50] Loss: 0.07086899876594543
+Epoch [4/50] Loss: 0.06685630125658852
+Epoch [5/50] Loss: 0.06300157787544387
+Epoch [6/50] Loss: 0.05926696104662759
+Epoch [7/50] Loss: 0.05563625107918467
+Epoch [8/50] Loss: 0.052147992487464635
+Epoch [9/50] Loss: 0.04869390917675836
+Epoch [10/50] Loss: 0.045422175100871494
+Epoch [11/50] Loss: 0.04222788927810533
+Epoch [12/50] Loss: 0.03922485134431294
+Epoch [13/50] Loss: 0.036409876708473475
+Epoch [14/50] Loss: 0.03383255696722439
+Epoch [15/50] Loss: 0.031522633507847786
+Epoch [16/50] Loss: 0.029452275218708173
+Epoch [17/50] Loss: 0.027621676613177572
+Epoch [18/50] Loss: 0.026006150990724564
+Epoch [19/50] Loss: 0.02459357545844146
+Epoch [20/50] Loss: 0.023345714434981346
+Epoch [21/50] Loss: 0.022270484694412777
+Epoch [22/50] Loss: 0.021338101476430893
+Epoch [23/50] Loss: 0.020506810396909714
+Epoch [24/50] Loss: 0.019793113693594933
+Epoch [25/50] Loss: 0.019188503867813518
+Epoch [26/50] Loss: 0.01867251843214035
+Epoch [27/50] Loss: 0.01824284265083926
+Epoch [28/50] Loss: 0.017870256145085608
+Epoch [29/50] Loss: 0.0175496478165899
+Epoch [30/50] Loss: 0.01728368630366666
+Epoch [31/50] Loss: 0.017021074358906065
+Epoch [32/50] Loss: 0.01682156217949731
+Epoch [33/50] Loss: 0.016640359269721166
+Epoch [34/50] Loss: 0.016471159777470996
+Epoch [35/50] Loss: 0.016314979642629623
+Epoch [36/50] Loss: 0.016175178810954094
+Epoch [37/50] Loss: 0.016060293785163333
+Epoch [38/50] Loss: 0.015921548008918762
+Epoch [39/50] Loss: 0.015822002398116247
+Epoch [40/50] Loss: 0.015700062603822777
+Epoch [41/50] Loss: 0.015602661296725273
+Epoch [42/50] Loss: 0.01550819126090833
+Epoch [43/50] Loss: 0.015413435042968817
+Epoch [44/50] Loss: 0.01531329724405493
+Epoch [45/50] Loss: 0.015222977314676558
+Epoch [46/50] Loss: 0.015158165778432573
+Epoch [47/50] Loss: 0.015072889892118317
+Epoch [48/50] Loss: 0.014992699293153626
+Epoch [49/50] Loss: 0.014909825287759304
+Epoch [50/50] Loss: 0.01484773973269122
+Training complete
+torch.Size([13445, 6])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+Epoch [1/50] Loss: 0.06949794706371096
+Epoch [2/50] Loss: 0.060655642507804766
+Epoch [3/50] Loss: 0.0527009821186463
+Epoch [4/50] Loss: 0.04497099191778236
+Epoch [5/50] Loss: 0.03748807724979189
+Epoch [6/50] Loss: 0.03094761125329468
+Epoch [7/50] Loss: 0.025978934433725145
+Epoch [8/50] Loss: 0.022677651192579005
+Epoch [9/50] Loss: 0.020587570861809783
+Epoch [10/50] Loss: 0.019227695961793263
+Epoch [11/50] Loss: 0.018257860301269427
+Epoch [12/50] Loss: 0.017485395694772404
+Epoch [13/50] Loss: 0.016829148659275636
+Epoch [14/50] Loss: 0.016252783748010795
+Epoch [15/50] Loss: 0.015743526371402874
+Epoch [16/50] Loss: 0.015295385434809659
+Epoch [17/50] Loss: 0.01490498830874761
+Epoch [18/50] Loss: 0.01456914335075352
+Epoch [19/50] Loss: 0.014281017861018578
+Epoch [20/50] Loss: 0.01403363732000192
+Epoch [21/50] Loss: 0.013820589726997746
+Epoch [22/50] Loss: 0.013637197048713764
+Epoch [23/50] Loss: 0.0134798562568095
+Epoch [24/50] Loss: 0.013340992025203176
+Epoch [25/50] Loss: 0.013222011271864176
+Epoch [26/50] Loss: 0.01311743316344089
+Epoch [27/50] Loss: 0.013024849196275076
+Epoch [28/50] Loss: 0.012940544893758165
+Epoch [29/50] Loss: 0.012868083599540923
+Epoch [30/50] Loss: 0.012802803837176826
+Epoch [31/50] Loss: 0.012741924367017217
+Epoch [32/50] Loss: 0.012688215563280715
+Epoch [33/50] Loss: 0.012638059962126944
+Epoch [34/50] Loss: 0.01259085913706157
+Epoch [35/50] Loss: 0.012547975664751397
+Epoch [36/50] Loss: 0.01250813083930148
+Epoch [37/50] Loss: 0.012470283390333256
+Epoch [38/50] Loss: 0.012436423347228102
+Epoch [39/50] Loss: 0.012402941472828388
+Epoch [40/50] Loss: 0.012371436330593295
+Epoch [41/50] Loss: 0.01234043798305922
+Epoch [42/50] Loss: 0.01231261772207088
+Epoch [43/50] Loss: 0.012283957045939233
+Epoch [44/50] Loss: 0.012255200391842259
+Epoch [45/50] Loss: 0.012230651711838113
+Epoch [46/50] Loss: 0.012203961869494783
+Epoch [47/50] Loss: 0.01217863941565156
+Epoch [48/50] Loss: 0.012154018558147881
+Epoch [49/50] Loss: 0.012128922156989574
+Epoch [50/50] Loss: 0.012104774152653085
+Training complete
+torch.Size([35740, 6])
+Relevance Density Estimated!
+Error Need to Define a Scoring Function
+107560 13445 35740 13445
+216 27 72 27
+Cuda Enabled!
+Currently active GPU: 0
+Relevance Covariate Shift Test Run!
+torch.Size([13445, 21])
+torch.Size([13445, 21, 32])
+Epoch [1/50] Loss: 0.05098362533109529
+Epoch [2/50] Loss: 0.04790289221065385
+Epoch [3/50] Loss: 0.04502726825220244
+Epoch [4/50] Loss: 0.0423929968050548
+Epoch [5/50] Loss: 0.03997688314744404
+Epoch [6/50] Loss: 0.037678879286561696
+Epoch [7/50] Loss: 0.035504941429410665
+Epoch [8/50] Loss: 0.033413794956036975
+Epoch [9/50] Loss: 0.031422191698636324
+Epoch [10/50] Loss: 0.0295681075326034
+Epoch [11/50] Loss: 0.027831813586609706
+Epoch [12/50] Loss: 0.026286230821694647
+Epoch [13/50] Loss: 0.02488877863756248
+Epoch [14/50] Loss: 0.0236746578344277
+Epoch [15/50] Loss: 0.022638007466282164
+Epoch [16/50] Loss: 0.021729227155447006
+Epoch [17/50] Loss: 0.020961067506245205
+Epoch [18/50] Loss: 0.020290113453354155
+Epoch [19/50] Loss: 0.019714900691594397
+Epoch [20/50] Loss: 0.01920377729194505
+Epoch [21/50] Loss: 0.018759500501411303
+Epoch [22/50] Loss: 0.01837883490536894
+Epoch [23/50] Loss: 0.01804859989455768
+Epoch [24/50] Loss: 0.017736301624349186
+Epoch [25/50] Loss: 0.017486327460833957
+Epoch [26/50] Loss: 0.017236707465989248
+Epoch [27/50] Loss: 0.01702670699783734
+Epoch [28/50] Loss: 0.016827238457543508
+Epoch [29/50] Loss: 0.016651026106306484
+Epoch [30/50] Loss: 0.016480638246451105
+Epoch [31/50] Loss: 0.016335601519261087
+Epoch [32/50] Loss: 0.016199374039258276
+Epoch [33/50] Loss: 0.01605337326015745
+Epoch [34/50] Loss: 0.015940154237406596
+Epoch [35/50] Loss: 0.01580393048269408
+Epoch [36/50] Loss: 0.015690763480961323
+Epoch [37/50] Loss: 0.015582021059734481
+Epoch [38/50] Loss: 0.015480511289622103
+Epoch [39/50] Loss: 0.015383345607135977
+Epoch [40/50] Loss: 0.015283590714846338
+Epoch [41/50] Loss: 0.015177564296339239
+Epoch [42/50] Loss: 0.015083607552306992
+Epoch [43/50] Loss: 0.014999565934496266
+Epoch [44/50] Loss: 0.0149086041908179
+Epoch [45/50] Loss: 0.014828197791108064
+Epoch [46/50] Loss: 0.014738727494009904
+Epoch [47/50] Loss: 0.014651361453746046
+Epoch [48/50] Loss: 0.014580078289977141
+Epoch [49/50] Loss: 0.014495400179709707
+Epoch [50/50] Loss: 0.014424658513494901
+Training complete
+torch.Size([13445, 6])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+Epoch [1/50] Loss: 0.07258356197012795
+Epoch [2/50] Loss: 0.06181500107049942
+Epoch [3/50] Loss: 0.051535849976870746
+Epoch [4/50] Loss: 0.04215858628352483
+Epoch [5/50] Loss: 0.03444022292064296
+Epoch [6/50] Loss: 0.028688355555964842
+Epoch [7/50] Loss: 0.02470381444113122
+Epoch [8/50] Loss: 0.022074452187452052
+Epoch [9/50] Loss: 0.020382857053644128
+Epoch [10/50] Loss: 0.019265809303356543
+Epoch [11/50] Loss: 0.01848260427100791
+Epoch [12/50] Loss: 0.01788385481470161
+Epoch [13/50] Loss: 0.01739331614226103
+Epoch [14/50] Loss: 0.016971037205722597
+Epoch [15/50] Loss: 0.016592745358745258
+Epoch [16/50] Loss: 0.01625361603995164
+Epoch [17/50] Loss: 0.01594769075098965
+Epoch [18/50] Loss: 0.015672289869851537
+Epoch [19/50] Loss: 0.01542309004192551
+Epoch [20/50] Loss: 0.015199788690855106
+Epoch [21/50] Loss: 0.014996152733349137
+Epoch [22/50] Loss: 0.014810367590851255
+Epoch [23/50] Loss: 0.014640540505448977
+Epoch [24/50] Loss: 0.014490161918931536
+Epoch [25/50] Loss: 0.014348637260910537
+Epoch [26/50] Loss: 0.014217671162138382
+Epoch [27/50] Loss: 0.014099540344129005
+Epoch [28/50] Loss: 0.01399044149244825
+Epoch [29/50] Loss: 0.013887465258853303
+Epoch [30/50] Loss: 0.013792512627939383
+Epoch [31/50] Loss: 0.013703137274003692
+Epoch [32/50] Loss: 0.013620192650705576
+Epoch [33/50] Loss: 0.01354162022471428
+Epoch [34/50] Loss: 0.013467775709513161
+Epoch [35/50] Loss: 0.013398525149871906
+Epoch [36/50] Loss: 0.013333333656191826
+Epoch [37/50] Loss: 0.013270566705614328
+Epoch [38/50] Loss: 0.013212214275780652
+Epoch [39/50] Loss: 0.013155316468328238
+Epoch [40/50] Loss: 0.013102871934986778
+Epoch [41/50] Loss: 0.013049580053322844
+Epoch [42/50] Loss: 0.013002593328969346
+Epoch [43/50] Loss: 0.012957901021258699
+Epoch [44/50] Loss: 0.012913130223751068
+Epoch [45/50] Loss: 0.012869252098931206
+Epoch [46/50] Loss: 0.012829954942895306
+Epoch [47/50] Loss: 0.012791627500620153
+Epoch [48/50] Loss: 0.012753909246789085
+Epoch [49/50] Loss: 0.012717594599558247
+Epoch [50/50] Loss: 0.012683401970813671
+Training complete
+torch.Size([35740, 6])
+Relevance Density Estimated!
+Traceback (most recent call last):
+  File "/home/johnwu3/Projects/interpretability/conformal_q_hat_IIIC.py", line 191, in <module>
+    cal = ConformalCovariateCalibrator(interpreter, method="cov_softmax_quantile", kde_cal=kde_cal, kde_test=kde_test, cal_loader=cal_loader)
+                                                                                           ^^^^^^^
+NameError: name 'kde_cal' is not defined
+107560 13445 35740 13445
+216 27 72 27
+Cuda Enabled!
+Currently active GPU: 0
+Relevance Covariate Shift Test Run!
+torch.Size([13445, 21])
+torch.Size([13445, 21, 32])
+torch.Size([13445, 6])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+torch.Size([35740, 6])
+Relevance Density Estimated!
+Error Need to Define a Scoring Function
+107560 13445 35740 13445
+390 49 130 49
+Cuda Enabled!
+Starting Non-Class Specific Prediction Sets
+torch.Size([13445, 21])
+torch.Size([13445, 21, 32])
+torch.Size([13445, 6])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+torch.Size([35740, 6])
+torch.Size([13445, 21])
+torch.Size([13445, 21, 32])
+torch.Size([13445, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+torch.Size([35740, 8])
+torch.Size([13445, 6])
+torch.Size([35740, 6])
+KDEs ESTIMATED
+Performing Non-Class Specific Prediction Sets for  Softmax  Calibrator
+Performing Non-Class Specific Prediction Sets for  Attention Covariate  Calibrator
+Performing Non-Class Specific Prediction Sets for  Relevance Covariate  Calibrator
+Performing Non-Class Specific Prediction Sets for  Logit Covariate  Calibrator
+Starting Class Conditional Prediction Sets
+torch.Size([2978, 21])
+torch.Size([2978, 21, 32])
+torch.Size([2978, 8])
+torch.Size([3394, 21])
+torch.Size([3394, 21, 32])
+torch.Size([3394, 8])
+torch.Size([1726, 21])
+torch.Size([1726, 21, 32])
+torch.Size([1726, 8])
+torch.Size([1746, 21])
+torch.Size([1746, 21, 32])
+torch.Size([1746, 8])
+torch.Size([1644, 21])
+torch.Size([1644, 21, 32])
+torch.Size([1644, 8])
+torch.Size([1957, 21])
+torch.Size([1957, 21, 32])
+torch.Size([1957, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+label: 0
+torch.Size([6689, 8])
+label: 1
+torch.Size([6838, 8])
+label: 2
+torch.Size([4559, 8])
+label: 3
+torch.Size([6939, 8])
+label: 4
+torch.Size([5121, 8])
+label: 5
+torch.Size([5594, 8])
+Performing Class Specific Prediction Sets for  Class Softmax  Calibrator
+Performing Class Specific Prediction Sets for  Class Softmax with Attention Covariate  Calibrator
+Performing Class Specific Prediction Sets for  Class Softmax with Relevance Covariate  Calibrator
+Performing Class Specific Prediction Sets for  Class Conditional Softmax with Multiple Relevance KDEs Covariate Shift  Calibrator
+107560 13445 35740 13445
+216 27 72 27
+Cuda Enabled!
+Currently active GPU: 0
+Logit Covariate Shift Score Test Run!
+torch.Size([13445, 6])
+torch.Size([35740, 6])
+Logit Density Estimated!
+alpha, q_hat, prediction set, prediction set length
+0.01 , tensor(5.8301e-13) , tensor([[ True,  True,  True,  True, False,  True]]) , 1
+alpha, q_hat, prediction set, prediction set length
+0.05 , tensor(4.0358e-09) , tensor([[ True,  True, False,  True, False, False]]) , 1
+alpha, q_hat, prediction set, prediction set length
+0.1 , tensor(1.2662e-07) , tensor([[ True,  True, False,  True, False, False]]) , 1
+alpha, q_hat, prediction set, prediction set length
+0.15 , tensor(7.6881e-07) , tensor([[ True,  True, False,  True, False, False]]) , 1
+Time: 136.89392113685608
+Class Conditional Relevance Covariate Score Shift Test Run!
+torch.Size([13445, 21])
+torch.Size([13445, 21, 32])
+torch.Size([13445, 6])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+torch.Size([35740, 6])
+alpha, q_hat, prediction set, prediction set length
+0.01 , tensor(5.6053e-12) , tensor([[ True,  True,  True,  True, False,  True]]) , 1
+alpha, q_hat, prediction set, prediction set length
+0.05 , tensor(1.6627e-08) , tensor([[ True,  True,  True,  True, False,  True]]) , 1
+alpha, q_hat, prediction set, prediction set length
+0.1 , tensor(3.5425e-07) , tensor([[ True,  True, False,  True, False, False]]) , 1
+alpha, q_hat, prediction set, prediction set length
+0.15 , tensor(1.2155e-06) , tensor([[ True,  True, False,  True, False, False]]) , 1
+Time: 311.85251688957214

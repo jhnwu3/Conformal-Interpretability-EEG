@@ -1,0 +1,45 @@
+107560 13445 35740 13445
+390 49 130 49
+Cuda Enabled!
+torch.Size([13445, 21])
+torch.Size([13445, 21, 32])
+torch.Size([13445, 8])
+torch.Size([35740, 21])
+torch.Size([35740, 21, 32])
+torch.Size([35740, 8])
+torch.Size([2978, 21])
+torch.Size([2978, 21, 32])
+torch.Size([2978, 8])
+torch.Size([3394, 21])
+torch.Size([3394, 21, 32])
+torch.Size([3394, 8])
+torch.Size([1726, 21])
+torch.Size([1726, 21, 32])
+torch.Size([1726, 8])
+torch.Size([1746, 21])
+torch.Size([1746, 21, 32])
+torch.Size([1746, 8])
+torch.Size([1644, 21])
+torch.Size([1644, 21, 32])
+torch.Size([1644, 8])
+torch.Size([1957, 21])
+torch.Size([1957, 21, 32])
+torch.Size([1957, 8])
+torch.Size([71480, 21])
+torch.Size([71480, 21, 32])
+label: 0
+torch.Size([17035, 8])
+label: 1
+torch.Size([15357, 8])
+label: 2
+torch.Size([8985, 8])
+label: 3
+torch.Size([10178, 8])
+label: 4
+torch.Size([9668, 8])
+label: 5
+torch.Size([10257, 8])
+/home/johnwu3/Projects/interpretability/uq/covariate.py:6: RuntimeWarning: divide by zero encountered in divide
+  return (kde_test(input) / kde_cal(input))
+/home/johnwu3/Projects/interpretability/uq/covariate.py:21: RuntimeWarning: invalid value encountered in divide
+  test_wt /= (sum_cal_likelihoods + likelihood_ratio(input, kde_cal, kde_test))

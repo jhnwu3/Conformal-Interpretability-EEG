@@ -1,0 +1,3555 @@
+train sub 288
+74653 8417 29421
+119 17 59 29
+Cuda Enabled!
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.2215e-15)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.)
+tensor(5.0898e-17)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.4500e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(7.2832e-16)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(4.1490e-15)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(2.9179e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(2.7552e-15)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.)
+tensor(2.5302e-15)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.1048e-12)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.5143e-15)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(2.2320e-13)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.3721e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(7.8256e-13)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(0.9999)
+tensor(1.6587e-11)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.)
+tensor(7.7962e-16)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.)
+tensor(1.9351e-24)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(9.8312e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.8528e-15)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.6939e-13)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.3621e-16)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.)
+tensor(4.1182e-26)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.)
+tensor(2.6160e-18)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(4.6530e-11)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(5.2001e-13)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(0.9999)
+tensor(5.4280e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.0705e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.)
+tensor(1.5689e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.0224e-13)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(4.7315e-15)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(9.6502e-17)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(0.9999)
+tensor(4.0847e-15)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.0853e-13)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(9.3340e-14)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.5778e-11)
+tensor(0.1667)
+q_hat: 0.0004075818578712
+scores: tensor(1.0000)
+tensor(1.8783e-13)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.2215e-15)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.)
+tensor(5.0898e-17)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.4500e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(7.2832e-16)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(4.1490e-15)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(2.9179e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(2.7552e-15)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.)
+tensor(2.5302e-15)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.1048e-12)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.5143e-15)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(2.2320e-13)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.3721e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(7.8256e-13)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(0.9999)
+tensor(1.6587e-11)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.)
+tensor(7.7962e-16)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.)
+tensor(1.9351e-24)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(9.8312e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.8528e-15)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.6939e-13)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.3621e-16)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.)
+tensor(4.1182e-26)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.)
+tensor(2.6160e-18)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(4.6530e-11)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(5.2001e-13)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(0.9999)
+tensor(5.4280e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.0705e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.)
+tensor(1.5689e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.0224e-13)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(4.7315e-15)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(9.6502e-17)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(0.9999)
+tensor(4.0847e-15)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.0853e-13)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(9.3340e-14)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.5778e-11)
+tensor(0.1667)
+q_hat: 0.7159410119056702
+scores: tensor(1.0000)
+tensor(1.8783e-13)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.2215e-15)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.)
+tensor(5.0898e-17)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.4500e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(7.2832e-16)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(4.1490e-15)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(2.9179e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(2.7552e-15)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.)
+tensor(2.5302e-15)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.1048e-12)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.5143e-15)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(2.2320e-13)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.3721e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(7.8256e-13)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(0.9999)
+tensor(1.6587e-11)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.)
+tensor(7.7962e-16)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.)
+tensor(1.9351e-24)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(9.8312e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.8528e-15)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.6939e-13)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.3621e-16)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.)
+tensor(4.1182e-26)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.)
+tensor(2.6160e-18)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(4.6530e-11)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(5.2001e-13)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(0.9999)
+tensor(5.4280e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.0705e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.)
+tensor(1.5689e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.0224e-13)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(4.7315e-15)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(9.6502e-17)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(0.9999)
+tensor(4.0847e-15)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.0853e-13)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(9.3340e-14)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.5778e-11)
+tensor(0.1667)
+q_hat: 0.9374259114265442
+scores: tensor(1.0000)
+tensor(1.8783e-13)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.2215e-15)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.)
+tensor(5.0898e-17)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.4500e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(7.2832e-16)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(4.1490e-15)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(2.9179e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(2.7552e-15)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.)
+tensor(2.5302e-15)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.1048e-12)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.5143e-15)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(2.2320e-13)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.3721e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(7.8256e-13)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(0.9999)
+tensor(1.6587e-11)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.)
+tensor(7.7962e-16)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.)
+tensor(1.9351e-24)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(9.8312e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.8528e-15)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.6939e-13)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.3621e-16)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.)
+tensor(4.1182e-26)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.)
+tensor(2.6160e-18)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(4.6530e-11)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(5.2001e-13)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(0.9999)
+tensor(5.4280e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.0705e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.)
+tensor(1.5689e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.0224e-13)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(4.7315e-15)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(9.6502e-17)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(0.9999)
+tensor(4.0847e-15)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.0853e-13)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(9.3340e-14)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.5778e-11)
+tensor(0.1667)
+q_hat: 0.981523334980011
+scores: tensor(1.0000)
+tensor(1.8783e-13)
+tensor(0.1667)
+q_hat: -0.4320076107978821
+scores: tensor(0.6841)
+tensor(-0.8502)
+tensor(-0.0008)
+q_hat: -0.4320076107978821
+scores: tensor(0.9453)
+tensor(-0.9373)
+tensor(-0.0040)
+q_hat: -0.4320076107978821
+scores: tensor(0.7233)
+tensor(-0.9892)
+tensor(-0.0011)
+q_hat: -0.4320076107978821
+scores: tensor(0.9947)
+tensor(-0.9939)
+tensor(0.0007)
+q_hat: -0.4320076107978821
+scores: tensor(0.9892)
+tensor(-0.8809)
+tensor(-0.0028)
+q_hat: -0.4320076107978821
+scores: tensor(0.9633)
+tensor(-0.9527)
+tensor(-0.0011)
+q_hat: -0.4320076107978821
+scores: tensor(0.9990)
+tensor(-0.9948)
+tensor(-0.0005)
+q_hat: -0.4320076107978821
+scores: tensor(0.9999)
+tensor(-0.9978)
+tensor(-0.0114)
+q_hat: -0.4320076107978821
+scores: tensor(0.9999)
+tensor(-0.9995)
+tensor(-0.0055)
+q_hat: -0.4320076107978821
+scores: tensor(0.9988)
+tensor(-0.9924)
+tensor(-0.0114)
+q_hat: -0.4320076107978821
+scores: tensor(0.9728)
+tensor(-0.9979)
+tensor(-0.0158)
+q_hat: -0.4320076107978821
+scores: tensor(0.9811)
+tensor(-0.9980)
+tensor(-0.0119)
+q_hat: -0.4320076107978821
+scores: tensor(0.8919)
+tensor(-0.9473)
+tensor(-0.0206)
+q_hat: -0.4320076107978821
+scores: tensor(0.9894)
+tensor(-0.9631)
+tensor(0.0094)
+q_hat: -0.4320076107978821
+scores: tensor(0.9342)
+tensor(-0.9619)
+tensor(0.0024)
+q_hat: -0.4320076107978821
+scores: tensor(0.9988)
+tensor(-0.9841)
+tensor(-0.0076)
+q_hat: -0.4320076107978821
+scores: tensor(0.9791)
+tensor(-0.9791)
+tensor(-0.0025)
+q_hat: -0.4320076107978821
+scores: tensor(0.9397)
+tensor(-0.9440)
+tensor(-0.0004)
+q_hat: -0.4320076107978821
+scores: tensor(0.7306)
+tensor(-0.3918)
+tensor(-0.0016)
+q_hat: -0.4320076107978821
+scores: tensor(0.9880)
+tensor(-0.9945)
+tensor(0.0017)
+q_hat: -0.4320076107978821
+scores: tensor(0.9602)
+tensor(-0.9991)
+tensor(-0.0056)
+q_hat: -0.4320076107978821
+scores: tensor(0.9885)
+tensor(-0.9778)
+tensor(-0.0039)
+q_hat: -0.4320076107978821
+scores: tensor(0.9885)
+tensor(-0.9079)
+tensor(-0.0003)
+q_hat: -0.4320076107978821
+scores: tensor(0.9934)
+tensor(-0.9922)
+tensor(-0.0017)
+q_hat: -0.4320076107978821
+scores: tensor(0.9896)
+tensor(-0.9707)
+tensor(-0.0022)
+q_hat: -0.4320076107978821
+scores: tensor(0.9952)
+tensor(-0.9897)
+tensor(0.0040)
+q_hat: -0.4320076107978821
+scores: tensor(0.9177)
+tensor(-0.9867)
+tensor(0.0009)
+q_hat: -0.4320076107978821
+scores: tensor(1.0000)
+tensor(-0.9999)
+tensor(0.0220)
+q_hat: -0.4320076107978821
+scores: tensor(0.9976)
+tensor(-0.9999)
+tensor(-0.0173)
+q_hat: -0.4320076107978821
+scores: tensor(0.9953)
+tensor(-0.9927)
+tensor(-0.0107)
+q_hat: -0.4320076107978821
+scores: tensor(0.9924)
+tensor(-0.9685)
+tensor(0.0011)
+q_hat: -0.4320076107978821
+scores: tensor(0.9977)
+tensor(-0.9984)
+tensor(-0.0131)
+q_hat: -0.4320076107978821
+scores: tensor(0.8942)
+tensor(-0.9899)
+tensor(-0.0123)
+q_hat: -0.4320076107978821
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(-0.0100)
+q_hat: -0.4320076107978821
+scores: tensor(0.9829)
+tensor(-1.0000)
+tensor(-0.0092)
+q_hat: -0.4320076107978821
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(0.0072)
+q_hat: -0.4320076107978821
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(-0.0014)
+q_hat: -0.4320076107978821
+scores: tensor(0.9998)
+tensor(-0.9998)
+tensor(-0.0025)
+q_hat: -0.4320076107978821
+scores: tensor(0.9984)
+tensor(-0.9683)
+tensor(-0.0085)
+q_hat: -0.4320076107978821
+scores: tensor(0.9755)
+tensor(-0.9842)
+tensor(-0.0065)
+q_hat: -0.4320076107978821
+scores: tensor(0.6792)
+tensor(-0.9219)
+tensor(-0.0047)
+q_hat: -0.4320076107978821
+scores: tensor(0.9903)
+tensor(-0.9953)
+tensor(-0.0078)
+q_hat: -0.4320076107978821
+scores: tensor(0.9966)
+tensor(-0.9963)
+tensor(-0.0035)
+q_hat: -0.4320076107978821
+scores: tensor(0.4553)
+tensor(-0.9869)
+tensor(-0.0081)
+q_hat: -0.4320076107978821
+scores: tensor(0.9992)
+tensor(-0.9860)
+tensor(0.0083)
+q_hat: -0.4320076107978821
+scores: tensor(0.9896)
+tensor(-0.9658)
+tensor(-0.0052)
+q_hat: -0.4320076107978821
+scores: tensor(0.9896)
+tensor(-0.9834)
+tensor(-0.0117)
+q_hat: -0.4320076107978821
+scores: tensor(0.9896)
+tensor(-0.9834)
+tensor(-0.0041)
+q_hat: -0.4320076107978821
+scores: tensor(1.0000)
+tensor(-0.9994)
+tensor(0.0154)
+q_hat: -0.4320076107978821
+scores: tensor(0.9985)
+tensor(-0.9985)
+tensor(-0.0016)
+q_hat: -0.4320076107978821
+scores: tensor(0.9985)
+tensor(-0.9985)
+tensor(0.0050)
+q_hat: -0.4320076107978821
+scores: tensor(0.7928)
+tensor(-0.8833)
+tensor(-0.0114)
+q_hat: -0.4320076107978821
+scores: tensor(0.8773)
+tensor(-0.8620)
+tensor(-0.0057)
+q_hat: -0.4320076107978821
+scores: tensor(0.9643)
+tensor(-0.9914)
+tensor(-0.0207)
+q_hat: -0.4320076107978821
+scores: tensor(0.8950)
+tensor(-0.9914)
+tensor(0.0083)
+q_hat: -0.4320076107978821
+scores: tensor(0.9917)
+tensor(-0.9688)
+tensor(0.0050)
+q_hat: -0.4320076107978821
+scores: tensor(0.9985)
+tensor(-0.9909)
+tensor(-0.0106)
+q_hat: -0.4320076107978821
+scores: tensor(0.9985)
+tensor(-0.9919)
+tensor(-0.0257)
+q_hat: -0.4320076107978821
+scores: tensor(0.9764)
+tensor(-0.9545)
+tensor(-0.0056)
+q_hat: -0.0204840302467346
+scores: tensor(0.6841)
+tensor(-0.8502)
+tensor(-0.0008)
+q_hat: -0.0204840302467346
+scores: tensor(0.9453)
+tensor(-0.9373)
+tensor(-0.0040)
+q_hat: -0.0204840302467346
+scores: tensor(0.7233)
+tensor(-0.9892)
+tensor(-0.0011)
+q_hat: -0.0204840302467346
+scores: tensor(0.9947)
+tensor(-0.9939)
+tensor(0.0007)
+q_hat: -0.0204840302467346
+scores: tensor(0.9892)
+tensor(-0.8809)
+tensor(-0.0028)
+q_hat: -0.0204840302467346
+scores: tensor(0.9633)
+tensor(-0.9527)
+tensor(-0.0011)
+q_hat: -0.0204840302467346
+scores: tensor(0.9990)
+tensor(-0.9948)
+tensor(-0.0005)
+q_hat: -0.0204840302467346
+scores: tensor(0.9999)
+tensor(-0.9978)
+tensor(-0.0114)
+q_hat: -0.0204840302467346
+scores: tensor(0.9999)
+tensor(-0.9995)
+tensor(-0.0055)
+q_hat: -0.0204840302467346
+scores: tensor(0.9988)
+tensor(-0.9924)
+tensor(-0.0114)
+q_hat: -0.0204840302467346
+scores: tensor(0.9728)
+tensor(-0.9979)
+tensor(-0.0158)
+q_hat: -0.0204840302467346
+scores: tensor(0.9811)
+tensor(-0.9980)
+tensor(-0.0119)
+q_hat: -0.0204840302467346
+scores: tensor(0.8919)
+tensor(-0.9473)
+tensor(-0.0206)
+q_hat: -0.0204840302467346
+scores: tensor(0.9894)
+tensor(-0.9631)
+tensor(0.0094)
+q_hat: -0.0204840302467346
+scores: tensor(0.9342)
+tensor(-0.9619)
+tensor(0.0024)
+q_hat: -0.0204840302467346
+scores: tensor(0.9988)
+tensor(-0.9841)
+tensor(-0.0076)
+q_hat: -0.0204840302467346
+scores: tensor(0.9791)
+tensor(-0.9791)
+tensor(-0.0025)
+q_hat: -0.0204840302467346
+scores: tensor(0.9397)
+tensor(-0.9440)
+tensor(-0.0004)
+q_hat: -0.0204840302467346
+scores: tensor(0.7306)
+tensor(-0.3918)
+tensor(-0.0016)
+q_hat: -0.0204840302467346
+scores: tensor(0.9880)
+tensor(-0.9945)
+tensor(0.0017)
+q_hat: -0.0204840302467346
+scores: tensor(0.9602)
+tensor(-0.9991)
+tensor(-0.0056)
+q_hat: -0.0204840302467346
+scores: tensor(0.9885)
+tensor(-0.9778)
+tensor(-0.0039)
+q_hat: -0.0204840302467346
+scores: tensor(0.9885)
+tensor(-0.9079)
+tensor(-0.0003)
+q_hat: -0.0204840302467346
+scores: tensor(0.9934)
+tensor(-0.9922)
+tensor(-0.0017)
+q_hat: -0.0204840302467346
+scores: tensor(0.9896)
+tensor(-0.9707)
+tensor(-0.0022)
+q_hat: -0.0204840302467346
+scores: tensor(0.9952)
+tensor(-0.9897)
+tensor(0.0040)
+q_hat: -0.0204840302467346
+scores: tensor(0.9177)
+tensor(-0.9867)
+tensor(0.0009)
+q_hat: -0.0204840302467346
+scores: tensor(1.0000)
+tensor(-0.9999)
+tensor(0.0220)
+q_hat: -0.0204840302467346
+scores: tensor(0.9976)
+tensor(-0.9999)
+tensor(-0.0173)
+q_hat: -0.0204840302467346
+scores: tensor(0.9953)
+tensor(-0.9927)
+tensor(-0.0107)
+q_hat: -0.0204840302467346
+scores: tensor(0.9924)
+tensor(-0.9685)
+tensor(0.0011)
+q_hat: -0.0204840302467346
+scores: tensor(0.9977)
+tensor(-0.9984)
+tensor(-0.0131)
+q_hat: -0.0204840302467346
+scores: tensor(0.8942)
+tensor(-0.9899)
+tensor(-0.0123)
+q_hat: -0.0204840302467346
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(-0.0100)
+q_hat: -0.0204840302467346
+scores: tensor(0.9829)
+tensor(-1.0000)
+tensor(-0.0092)
+q_hat: -0.0204840302467346
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(0.0072)
+q_hat: -0.0204840302467346
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(-0.0014)
+q_hat: -0.0204840302467346
+scores: tensor(0.9998)
+tensor(-0.9998)
+tensor(-0.0025)
+q_hat: -0.0204840302467346
+scores: tensor(0.9984)
+tensor(-0.9683)
+tensor(-0.0085)
+q_hat: -0.0204840302467346
+scores: tensor(0.9755)
+tensor(-0.9842)
+tensor(-0.0065)
+q_hat: -0.0204840302467346
+scores: tensor(0.6792)
+tensor(-0.9219)
+tensor(-0.0047)
+q_hat: -0.0204840302467346
+scores: tensor(0.9903)
+tensor(-0.9953)
+tensor(-0.0078)
+q_hat: -0.0204840302467346
+scores: tensor(0.9966)
+tensor(-0.9963)
+tensor(-0.0035)
+q_hat: -0.0204840302467346
+scores: tensor(0.4553)
+tensor(-0.9869)
+tensor(-0.0081)
+q_hat: -0.0204840302467346
+scores: tensor(0.9992)
+tensor(-0.9860)
+tensor(0.0083)
+q_hat: -0.0204840302467346
+scores: tensor(0.9896)
+tensor(-0.9658)
+tensor(-0.0052)
+q_hat: -0.0204840302467346
+scores: tensor(0.9896)
+tensor(-0.9834)
+tensor(-0.0117)
+q_hat: -0.0204840302467346
+scores: tensor(0.9896)
+tensor(-0.9834)
+tensor(-0.0041)
+q_hat: -0.0204840302467346
+scores: tensor(1.0000)
+tensor(-0.9994)
+tensor(0.0154)
+q_hat: -0.0204840302467346
+scores: tensor(0.9985)
+tensor(-0.9985)
+tensor(-0.0016)
+q_hat: -0.0204840302467346
+scores: tensor(0.9985)
+tensor(-0.9985)
+tensor(0.0050)
+q_hat: -0.0204840302467346
+scores: tensor(0.7928)
+tensor(-0.8833)
+tensor(-0.0114)
+q_hat: -0.0204840302467346
+scores: tensor(0.8773)
+tensor(-0.8620)
+tensor(-0.0057)
+q_hat: -0.0204840302467346
+scores: tensor(0.9643)
+tensor(-0.9914)
+tensor(-0.0207)
+q_hat: -0.0204840302467346
+scores: tensor(0.8950)
+tensor(-0.9914)
+tensor(0.0083)
+q_hat: -0.0204840302467346
+scores: tensor(0.9917)
+tensor(-0.9688)
+tensor(0.0050)
+q_hat: -0.0204840302467346
+scores: tensor(0.9985)
+tensor(-0.9909)
+tensor(-0.0106)
+q_hat: -0.0204840302467346
+scores: tensor(0.9985)
+tensor(-0.9919)
+tensor(-0.0257)
+q_hat: -0.0204840302467346
+scores: tensor(0.9764)
+tensor(-0.9545)
+tensor(-0.0056)
+q_hat: -0.0021432042121887
+scores: tensor(0.6841)
+tensor(-0.8502)
+tensor(-0.0008)
+q_hat: -0.0021432042121887
+scores: tensor(0.9453)
+tensor(-0.9373)
+tensor(-0.0040)
+q_hat: -0.0021432042121887
+scores: tensor(0.7233)
+tensor(-0.9892)
+tensor(-0.0011)
+q_hat: -0.0021432042121887
+scores: tensor(0.9947)
+tensor(-0.9939)
+tensor(0.0007)
+q_hat: -0.0021432042121887
+scores: tensor(0.9892)
+tensor(-0.8809)
+tensor(-0.0028)
+q_hat: -0.0021432042121887
+scores: tensor(0.9633)
+tensor(-0.9527)
+tensor(-0.0011)
+q_hat: -0.0021432042121887
+scores: tensor(0.9990)
+tensor(-0.9948)
+tensor(-0.0005)
+q_hat: -0.0021432042121887
+scores: tensor(0.9999)
+tensor(-0.9978)
+tensor(-0.0114)
+q_hat: -0.0021432042121887
+scores: tensor(0.9999)
+tensor(-0.9995)
+tensor(-0.0055)
+q_hat: -0.0021432042121887
+scores: tensor(0.9988)
+tensor(-0.9924)
+tensor(-0.0114)
+q_hat: -0.0021432042121887
+scores: tensor(0.9728)
+tensor(-0.9979)
+tensor(-0.0158)
+q_hat: -0.0021432042121887
+scores: tensor(0.9811)
+tensor(-0.9980)
+tensor(-0.0119)
+q_hat: -0.0021432042121887
+scores: tensor(0.8919)
+tensor(-0.9473)
+tensor(-0.0206)
+q_hat: -0.0021432042121887
+scores: tensor(0.9894)
+tensor(-0.9631)
+tensor(0.0094)
+q_hat: -0.0021432042121887
+scores: tensor(0.9342)
+tensor(-0.9619)
+tensor(0.0024)
+q_hat: -0.0021432042121887
+scores: tensor(0.9988)
+tensor(-0.9841)
+tensor(-0.0076)
+q_hat: -0.0021432042121887
+scores: tensor(0.9791)
+tensor(-0.9791)
+tensor(-0.0025)
+q_hat: -0.0021432042121887
+scores: tensor(0.9397)
+tensor(-0.9440)
+tensor(-0.0004)
+q_hat: -0.0021432042121887
+scores: tensor(0.7306)
+tensor(-0.3918)
+tensor(-0.0016)
+q_hat: -0.0021432042121887
+scores: tensor(0.9880)
+tensor(-0.9945)
+tensor(0.0017)
+q_hat: -0.0021432042121887
+scores: tensor(0.9602)
+tensor(-0.9991)
+tensor(-0.0056)
+q_hat: -0.0021432042121887
+scores: tensor(0.9885)
+tensor(-0.9778)
+tensor(-0.0039)
+q_hat: -0.0021432042121887
+scores: tensor(0.9885)
+tensor(-0.9079)
+tensor(-0.0003)
+q_hat: -0.0021432042121887
+scores: tensor(0.9934)
+tensor(-0.9922)
+tensor(-0.0017)
+q_hat: -0.0021432042121887
+scores: tensor(0.9896)
+tensor(-0.9707)
+tensor(-0.0022)
+q_hat: -0.0021432042121887
+scores: tensor(0.9952)
+tensor(-0.9897)
+tensor(0.0040)
+q_hat: -0.0021432042121887
+scores: tensor(0.9177)
+tensor(-0.9867)
+tensor(0.0009)
+q_hat: -0.0021432042121887
+scores: tensor(1.0000)
+tensor(-0.9999)
+tensor(0.0220)
+q_hat: -0.0021432042121887
+scores: tensor(0.9976)
+tensor(-0.9999)
+tensor(-0.0173)
+q_hat: -0.0021432042121887
+scores: tensor(0.9953)
+tensor(-0.9927)
+tensor(-0.0107)
+q_hat: -0.0021432042121887
+scores: tensor(0.9924)
+tensor(-0.9685)
+tensor(0.0011)
+q_hat: -0.0021432042121887
+scores: tensor(0.9977)
+tensor(-0.9984)
+tensor(-0.0131)
+q_hat: -0.0021432042121887
+scores: tensor(0.8942)
+tensor(-0.9899)
+tensor(-0.0123)
+q_hat: -0.0021432042121887
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(-0.0100)
+q_hat: -0.0021432042121887
+scores: tensor(0.9829)
+tensor(-1.0000)
+tensor(-0.0092)
+q_hat: -0.0021432042121887
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(0.0072)
+q_hat: -0.0021432042121887
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(-0.0014)
+q_hat: -0.0021432042121887
+scores: tensor(0.9998)
+tensor(-0.9998)
+tensor(-0.0025)
+q_hat: -0.0021432042121887
+scores: tensor(0.9984)
+tensor(-0.9683)
+tensor(-0.0085)
+q_hat: -0.0021432042121887
+scores: tensor(0.9755)
+tensor(-0.9842)
+tensor(-0.0065)
+q_hat: -0.0021432042121887
+scores: tensor(0.6792)
+tensor(-0.9219)
+tensor(-0.0047)
+q_hat: -0.0021432042121887
+scores: tensor(0.9903)
+tensor(-0.9953)
+tensor(-0.0078)
+q_hat: -0.0021432042121887
+scores: tensor(0.9966)
+tensor(-0.9963)
+tensor(-0.0035)
+q_hat: -0.0021432042121887
+scores: tensor(0.4553)
+tensor(-0.9869)
+tensor(-0.0081)
+q_hat: -0.0021432042121887
+scores: tensor(0.9992)
+tensor(-0.9860)
+tensor(0.0083)
+q_hat: -0.0021432042121887
+scores: tensor(0.9896)
+tensor(-0.9658)
+tensor(-0.0052)
+q_hat: -0.0021432042121887
+scores: tensor(0.9896)
+tensor(-0.9834)
+tensor(-0.0117)
+q_hat: -0.0021432042121887
+scores: tensor(0.9896)
+tensor(-0.9834)
+tensor(-0.0041)
+q_hat: -0.0021432042121887
+scores: tensor(1.0000)
+tensor(-0.9994)
+tensor(0.0154)
+q_hat: -0.0021432042121887
+scores: tensor(0.9985)
+tensor(-0.9985)
+tensor(-0.0016)
+q_hat: -0.0021432042121887
+scores: tensor(0.9985)
+tensor(-0.9985)
+tensor(0.0050)
+q_hat: -0.0021432042121887
+scores: tensor(0.7928)
+tensor(-0.8833)
+tensor(-0.0114)
+q_hat: -0.0021432042121887
+scores: tensor(0.8773)
+tensor(-0.8620)
+tensor(-0.0057)
+q_hat: -0.0021432042121887
+scores: tensor(0.9643)
+tensor(-0.9914)
+tensor(-0.0207)
+q_hat: -0.0021432042121887
+scores: tensor(0.8950)
+tensor(-0.9914)
+tensor(0.0083)
+q_hat: -0.0021432042121887
+scores: tensor(0.9917)
+tensor(-0.9688)
+tensor(0.0050)
+q_hat: -0.0021432042121887
+scores: tensor(0.9985)
+tensor(-0.9909)
+tensor(-0.0106)
+q_hat: -0.0021432042121887
+scores: tensor(0.9985)
+tensor(-0.9919)
+tensor(-0.0257)
+q_hat: -0.0021432042121887
+scores: tensor(0.9764)
+tensor(-0.9545)
+tensor(-0.0056)
+q_hat: -0.0002967119216918
+scores: tensor(0.6841)
+tensor(-0.8502)
+tensor(-0.0008)
+q_hat: -0.0002967119216918
+scores: tensor(0.9453)
+tensor(-0.9373)
+tensor(-0.0040)
+q_hat: -0.0002967119216918
+scores: tensor(0.7233)
+tensor(-0.9892)
+tensor(-0.0011)
+q_hat: -0.0002967119216918
+scores: tensor(0.9947)
+tensor(-0.9939)
+tensor(0.0007)
+q_hat: -0.0002967119216918
+scores: tensor(0.9892)
+tensor(-0.8809)
+tensor(-0.0028)
+q_hat: -0.0002967119216918
+scores: tensor(0.9633)
+tensor(-0.9527)
+tensor(-0.0011)
+q_hat: -0.0002967119216918
+scores: tensor(0.9990)
+tensor(-0.9948)
+tensor(-0.0005)
+q_hat: -0.0002967119216918
+scores: tensor(0.9999)
+tensor(-0.9978)
+tensor(-0.0114)
+q_hat: -0.0002967119216918
+scores: tensor(0.9999)
+tensor(-0.9995)
+tensor(-0.0055)
+q_hat: -0.0002967119216918
+scores: tensor(0.9988)
+tensor(-0.9924)
+tensor(-0.0114)
+q_hat: -0.0002967119216918
+scores: tensor(0.9728)
+tensor(-0.9979)
+tensor(-0.0158)
+q_hat: -0.0002967119216918
+scores: tensor(0.9811)
+tensor(-0.9980)
+tensor(-0.0119)
+q_hat: -0.0002967119216918
+scores: tensor(0.8919)
+tensor(-0.9473)
+tensor(-0.0206)
+q_hat: -0.0002967119216918
+scores: tensor(0.9894)
+tensor(-0.9631)
+tensor(0.0094)
+q_hat: -0.0002967119216918
+scores: tensor(0.9342)
+tensor(-0.9619)
+tensor(0.0024)
+q_hat: -0.0002967119216918
+scores: tensor(0.9988)
+tensor(-0.9841)
+tensor(-0.0076)
+q_hat: -0.0002967119216918
+scores: tensor(0.9791)
+tensor(-0.9791)
+tensor(-0.0025)
+q_hat: -0.0002967119216918
+scores: tensor(0.9397)
+tensor(-0.9440)
+tensor(-0.0004)
+q_hat: -0.0002967119216918
+scores: tensor(0.7306)
+tensor(-0.3918)
+tensor(-0.0016)
+q_hat: -0.0002967119216918
+scores: tensor(0.9880)
+tensor(-0.9945)
+tensor(0.0017)
+q_hat: -0.0002967119216918
+scores: tensor(0.9602)
+tensor(-0.9991)
+tensor(-0.0056)
+q_hat: -0.0002967119216918
+scores: tensor(0.9885)
+tensor(-0.9778)
+tensor(-0.0039)
+q_hat: -0.0002967119216918
+scores: tensor(0.9885)
+tensor(-0.9079)
+tensor(-0.0003)
+q_hat: -0.0002967119216918
+scores: tensor(0.9934)
+tensor(-0.9922)
+tensor(-0.0017)
+q_hat: -0.0002967119216918
+scores: tensor(0.9896)
+tensor(-0.9707)
+tensor(-0.0022)
+q_hat: -0.0002967119216918
+scores: tensor(0.9952)
+tensor(-0.9897)
+tensor(0.0040)
+q_hat: -0.0002967119216918
+scores: tensor(0.9177)
+tensor(-0.9867)
+tensor(0.0009)
+q_hat: -0.0002967119216918
+scores: tensor(1.0000)
+tensor(-0.9999)
+tensor(0.0220)
+q_hat: -0.0002967119216918
+scores: tensor(0.9976)
+tensor(-0.9999)
+tensor(-0.0173)
+q_hat: -0.0002967119216918
+scores: tensor(0.9953)
+tensor(-0.9927)
+tensor(-0.0107)
+q_hat: -0.0002967119216918
+scores: tensor(0.9924)
+tensor(-0.9685)
+tensor(0.0011)
+q_hat: -0.0002967119216918
+scores: tensor(0.9977)
+tensor(-0.9984)
+tensor(-0.0131)
+q_hat: -0.0002967119216918
+scores: tensor(0.8942)
+tensor(-0.9899)
+tensor(-0.0123)
+q_hat: -0.0002967119216918
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(-0.0100)
+q_hat: -0.0002967119216918
+scores: tensor(0.9829)
+tensor(-1.0000)
+tensor(-0.0092)
+q_hat: -0.0002967119216918
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(0.0072)
+q_hat: -0.0002967119216918
+scores: tensor(1.0000)
+tensor(-1.0000)
+tensor(-0.0014)
+q_hat: -0.0002967119216918
+scores: tensor(0.9998)
+tensor(-0.9998)
+tensor(-0.0025)
+q_hat: -0.0002967119216918
+scores: tensor(0.9984)
+tensor(-0.9683)
+tensor(-0.0085)
+q_hat: -0.0002967119216918
+scores: tensor(0.9755)
+tensor(-0.9842)
+tensor(-0.0065)
+q_hat: -0.0002967119216918
+scores: tensor(0.6792)
+tensor(-0.9219)
+tensor(-0.0047)
+q_hat: -0.0002967119216918
+scores: tensor(0.9903)
+tensor(-0.9953)
+tensor(-0.0078)
+q_hat: -0.0002967119216918
+scores: tensor(0.9966)
+tensor(-0.9963)
+tensor(-0.0035)
+q_hat: -0.0002967119216918
+scores: tensor(0.4553)
+tensor(-0.9869)
+tensor(-0.0081)
+q_hat: -0.0002967119216918
+scores: tensor(0.9992)
+tensor(-0.9860)
+tensor(0.0083)
+q_hat: -0.0002967119216918
+scores: tensor(0.9896)
+tensor(-0.9658)
+tensor(-0.0052)
+q_hat: -0.0002967119216918
+scores: tensor(0.9896)
+tensor(-0.9834)
+tensor(-0.0117)
+q_hat: -0.0002967119216918
+scores: tensor(0.9896)
+tensor(-0.9834)
+tensor(-0.0041)
+q_hat: -0.0002967119216918
+scores: tensor(1.0000)
+tensor(-0.9994)
+tensor(0.0154)
+q_hat: -0.0002967119216918
+scores: tensor(0.9985)
+tensor(-0.9985)
+tensor(-0.0016)
+q_hat: -0.0002967119216918
+scores: tensor(0.9985)
+tensor(-0.9985)
+tensor(0.0050)
+q_hat: -0.0002967119216918
+scores: tensor(0.7928)
+tensor(-0.8833)
+tensor(-0.0114)
+q_hat: -0.0002967119216918
+scores: tensor(0.8773)
+tensor(-0.8620)
+tensor(-0.0057)
+q_hat: -0.0002967119216918
+scores: tensor(0.9643)
+tensor(-0.9914)
+tensor(-0.0207)
+q_hat: -0.0002967119216918
+scores: tensor(0.8950)
+tensor(-0.9914)
+tensor(0.0083)
+q_hat: -0.0002967119216918
+scores: tensor(0.9917)
+tensor(-0.9688)
+tensor(0.0050)
+q_hat: -0.0002967119216918
+scores: tensor(0.9985)
+tensor(-0.9909)
+tensor(-0.0106)
+q_hat: -0.0002967119216918
+scores: tensor(0.9985)
+tensor(-0.9919)
+tensor(-0.0257)
+q_hat: -0.0002967119216918
+scores: tensor(0.9764)
+tensor(-0.9545)
+tensor(-0.0056)
+q_hat: -0.2474623620510101
+scores: tensor(0.9502)
+tensor(-0.4236)
+tensor(0.0290)
+q_hat: -0.2474623620510101
+scores: tensor(0.9841)
+tensor(-0.5063)
+tensor(0.0169)
+q_hat: -0.2474623620510101
+scores: tensor(0.9958)
+tensor(-0.9974)
+tensor(0.0352)
+q_hat: -0.2474623620510101
+scores: tensor(0.9951)
+tensor(-0.9881)
+tensor(0.0204)
+q_hat: -0.2474623620510101
+scores: tensor(0.9386)
+tensor(-0.6619)
+tensor(-0.0027)
+q_hat: -0.2474623620510101
+scores: tensor(0.9657)
+tensor(-0.7255)
+tensor(0.0208)
+q_hat: -0.2474623620510101
+scores: tensor(0.9807)
+tensor(-0.7494)
+tensor(0.0189)
+q_hat: -0.2474623620510101
+scores: tensor(0.9948)
+tensor(-0.8771)
+tensor(0.0348)
+q_hat: -0.2474623620510101
+scores: tensor(0.9948)
+tensor(-0.6516)
+tensor(0.0146)
+q_hat: -0.2474623620510101
+scores: tensor(0.9594)
+tensor(-0.7498)
+tensor(0.0136)
+q_hat: -0.2474623620510101
+scores: tensor(1.0000)
+tensor(-0.7326)
+tensor(0.0803)
+q_hat: -0.2474623620510101
+scores: tensor(0.9964)
+tensor(-0.7962)
+tensor(0.0409)
+q_hat: -0.2474623620510101
+scores: tensor(0.9704)
+tensor(-0.7962)
+tensor(0.0675)
+q_hat: -0.2474623620510101
+scores: tensor(0.9793)
+tensor(-0.9249)
+tensor(0.0230)
+q_hat: -0.2474623620510101
+scores: tensor(0.8847)
+tensor(-0.9567)
+tensor(0.0287)
+q_hat: -0.2474623620510101
+scores: tensor(0.9998)
+tensor(-0.9881)
+tensor(0.0318)
+q_hat: -0.2474623620510101
+scores: tensor(0.9982)
+tensor(-0.9881)
+tensor(0.0347)
+q_hat: -0.2474623620510101
+scores: tensor(0.9921)
+tensor(-0.7123)
+tensor(0.0103)
+q_hat: -0.2474623620510101
+scores: tensor(0.9830)
+tensor(-0.8695)
+tensor(0.0149)
+q_hat: -0.2474623620510101
+scores: tensor(0.9939)
+tensor(-0.7552)
+tensor(0.0254)
+q_hat: -0.2474623620510101
+scores: tensor(0.9998)
+tensor(-0.8203)
+tensor(0.0447)
+q_hat: -0.2474623620510101
+scores: tensor(0.9975)
+tensor(-0.9332)
+tensor(0.0152)
+q_hat: -0.2474623620510101
+scores: tensor(0.9975)
+tensor(-0.9332)
+tensor(0.0132)
+q_hat: -0.2474623620510101
+scores: tensor(0.9994)
+tensor(-0.9498)
+tensor(0.0210)
+q_hat: -0.2474623620510101
+scores: tensor(0.9947)
+tensor(-0.6838)
+tensor(0.0268)
+q_hat: -0.2474623620510101
+scores: tensor(0.9947)
+tensor(-0.7729)
+tensor(0.0312)
+q_hat: -0.2474623620510101
+scores: tensor(0.9877)
+tensor(-0.6825)
+tensor(0.0164)
+q_hat: -0.2474623620510101
+scores: tensor(0.9978)
+tensor(-0.7457)
+tensor(0.0310)
+q_hat: -0.2474623620510101
+scores: tensor(0.9634)
+tensor(-0.7035)
+tensor(0.0304)
+q_hat: -0.2474623620510101
+scores: tensor(0.9999)
+tensor(-0.9616)
+tensor(0.0233)
+q_hat: -0.2474623620510101
+scores: tensor(0.9914)
+tensor(-0.6923)
+tensor(0.0355)
+q_hat: -0.2474623620510101
+scores: tensor(0.9781)
+tensor(-0.7489)
+tensor(0.0319)
+q_hat: -0.2474623620510101
+scores: tensor(0.9933)
+tensor(-0.7489)
+tensor(0.0524)
+q_hat: -0.2474623620510101
+scores: tensor(0.9928)
+tensor(-0.7424)
+tensor(0.0241)
+q_hat: -0.2474623620510101
+scores: tensor(0.9910)
+tensor(-0.8838)
+tensor(0.0294)
+q_hat: -0.2474623620510101
+scores: tensor(0.9975)
+tensor(-0.8540)
+tensor(-0.0075)
+q_hat: -0.2474623620510101
+scores: tensor(0.9986)
+tensor(-0.7818)
+tensor(0.0388)
+q_hat: -0.2474623620510101
+scores: tensor(0.9081)
+tensor(-0.7921)
+tensor(0.0284)
+q_hat: -0.2474623620510101
+scores: tensor(0.9940)
+tensor(-0.9054)
+tensor(0.0372)
+q_hat: -0.2474623620510101
+scores: tensor(0.9940)
+tensor(-0.8292)
+tensor(0.0416)
+q_hat: -0.2474623620510101
+scores: tensor(0.9845)
+tensor(-0.7449)
+tensor(0.0416)
+q_hat: -0.2474623620510101
+scores: tensor(0.9971)
+tensor(-0.9466)
+tensor(0.0226)
+q_hat: -0.2474623620510101
+scores: tensor(0.9983)
+tensor(-0.9811)
+tensor(0.0206)
+q_hat: -0.2474623620510101
+scores: tensor(0.9892)
+tensor(-0.9811)
+tensor(0.0202)
+q_hat: -0.2474623620510101
+scores: tensor(0.9958)
+tensor(-0.7408)
+tensor(0.0279)
+q_hat: -0.2474623620510101
+scores: tensor(0.9947)
+tensor(-0.8395)
+tensor(0.0279)
+q_hat: -0.2474623620510101
+scores: tensor(0.9947)
+tensor(-0.8283)
+tensor(0.0414)
+q_hat: -0.2474623620510101
+scores: tensor(0.9947)
+tensor(-0.8283)
+tensor(0.0433)
+q_hat: -0.2474623620510101
+scores: tensor(0.9889)
+tensor(-0.9090)
+tensor(0.0534)
+q_hat: -0.2474623620510101
+scores: tensor(0.8007)
+tensor(-0.7540)
+tensor(0.0221)
+q_hat: -0.2474623620510101
+scores: tensor(0.9924)
+tensor(-0.7540)
+tensor(0.0284)
+q_hat: -0.2474623620510101
+scores: tensor(0.9389)
+tensor(-0.6809)
+tensor(0.0021)
+q_hat: -0.2474623620510101
+scores: tensor(0.8917)
+tensor(-0.7255)
+tensor(0.0200)
+q_hat: -0.2474623620510101
+scores: tensor(0.9945)
+tensor(-0.8382)
+tensor(0.0307)
+q_hat: -0.2474623620510101
+scores: tensor(0.8682)
+tensor(-0.8382)
+tensor(0.0338)
+q_hat: -0.2474623620510101
+scores: tensor(0.9911)
+tensor(-0.6375)
+tensor(0.0533)
+q_hat: -0.2474623620510101
+scores: tensor(0.9987)
+tensor(-0.8891)
+tensor(0.0326)
+q_hat: -0.2474623620510101
+scores: tensor(0.9738)
+tensor(-0.8891)
+tensor(0.0290)
+q_hat: -0.2474623620510101
+scores: tensor(0.9969)
+tensor(-0.8265)
+tensor(0.0294)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9502)
+tensor(-0.4236)
+tensor(0.0290)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9841)
+tensor(-0.5063)
+tensor(0.0169)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9958)
+tensor(-0.9974)
+tensor(0.0352)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9951)
+tensor(-0.9881)
+tensor(0.0204)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9386)
+tensor(-0.6619)
+tensor(-0.0027)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9657)
+tensor(-0.7255)
+tensor(0.0208)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9807)
+tensor(-0.7494)
+tensor(0.0189)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9948)
+tensor(-0.8771)
+tensor(0.0348)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9948)
+tensor(-0.6516)
+tensor(0.0146)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9594)
+tensor(-0.7498)
+tensor(0.0136)
+q_hat: -7.215277264549513e-08
+scores: tensor(1.0000)
+tensor(-0.7326)
+tensor(0.0803)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9964)
+tensor(-0.7962)
+tensor(0.0409)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9704)
+tensor(-0.7962)
+tensor(0.0675)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9793)
+tensor(-0.9249)
+tensor(0.0230)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.8847)
+tensor(-0.9567)
+tensor(0.0287)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9998)
+tensor(-0.9881)
+tensor(0.0318)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9982)
+tensor(-0.9881)
+tensor(0.0347)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9921)
+tensor(-0.7123)
+tensor(0.0103)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9830)
+tensor(-0.8695)
+tensor(0.0149)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9939)
+tensor(-0.7552)
+tensor(0.0254)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9998)
+tensor(-0.8203)
+tensor(0.0447)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9975)
+tensor(-0.9332)
+tensor(0.0152)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9975)
+tensor(-0.9332)
+tensor(0.0132)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9994)
+tensor(-0.9498)
+tensor(0.0210)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9947)
+tensor(-0.6838)
+tensor(0.0268)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9947)
+tensor(-0.7729)
+tensor(0.0312)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9877)
+tensor(-0.6825)
+tensor(0.0164)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9978)
+tensor(-0.7457)
+tensor(0.0310)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9634)
+tensor(-0.7035)
+tensor(0.0304)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9999)
+tensor(-0.9616)
+tensor(0.0233)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9914)
+tensor(-0.6923)
+tensor(0.0355)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9781)
+tensor(-0.7489)
+tensor(0.0319)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9933)
+tensor(-0.7489)
+tensor(0.0524)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9928)
+tensor(-0.7424)
+tensor(0.0241)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9910)
+tensor(-0.8838)
+tensor(0.0294)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9975)
+tensor(-0.8540)
+tensor(-0.0075)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9986)
+tensor(-0.7818)
+tensor(0.0388)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9081)
+tensor(-0.7921)
+tensor(0.0284)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9940)
+tensor(-0.9054)
+tensor(0.0372)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9940)
+tensor(-0.8292)
+tensor(0.0416)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9845)
+tensor(-0.7449)
+tensor(0.0416)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9971)
+tensor(-0.9466)
+tensor(0.0226)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9983)
+tensor(-0.9811)
+tensor(0.0206)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9892)
+tensor(-0.9811)
+tensor(0.0202)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9958)
+tensor(-0.7408)
+tensor(0.0279)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9947)
+tensor(-0.8395)
+tensor(0.0279)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9947)
+tensor(-0.8283)
+tensor(0.0414)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9947)
+tensor(-0.8283)
+tensor(0.0433)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9889)
+tensor(-0.9090)
+tensor(0.0534)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.8007)
+tensor(-0.7540)
+tensor(0.0221)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9924)
+tensor(-0.7540)
+tensor(0.0284)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9389)
+tensor(-0.6809)
+tensor(0.0021)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.8917)
+tensor(-0.7255)
+tensor(0.0200)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9945)
+tensor(-0.8382)
+tensor(0.0307)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.8682)
+tensor(-0.8382)
+tensor(0.0338)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9911)
+tensor(-0.6375)
+tensor(0.0533)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9987)
+tensor(-0.8891)
+tensor(0.0326)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9738)
+tensor(-0.8891)
+tensor(0.0290)
+q_hat: -7.215277264549513e-08
+scores: tensor(0.9969)
+tensor(-0.8265)
+tensor(0.0294)
+q_hat: 0.0028562992811203
+scores: tensor(0.9502)
+tensor(-0.4236)
+tensor(0.0290)
+q_hat: 0.0028562992811203
+scores: tensor(0.9841)
+tensor(-0.5063)
+tensor(0.0169)
+q_hat: 0.0028562992811203
+scores: tensor(0.9958)
+tensor(-0.9974)
+tensor(0.0352)
+q_hat: 0.0028562992811203
+scores: tensor(0.9951)
+tensor(-0.9881)
+tensor(0.0204)
+q_hat: 0.0028562992811203
+scores: tensor(0.9386)
+tensor(-0.6619)
+tensor(-0.0027)
+q_hat: 0.0028562992811203
+scores: tensor(0.9657)
+tensor(-0.7255)
+tensor(0.0208)
+q_hat: 0.0028562992811203
+scores: tensor(0.9807)
+tensor(-0.7494)
+tensor(0.0189)
+q_hat: 0.0028562992811203
+scores: tensor(0.9948)
+tensor(-0.8771)
+tensor(0.0348)
+q_hat: 0.0028562992811203
+scores: tensor(0.9948)
+tensor(-0.6516)
+tensor(0.0146)
+q_hat: 0.0028562992811203
+scores: tensor(0.9594)
+tensor(-0.7498)
+tensor(0.0136)
+q_hat: 0.0028562992811203
+scores: tensor(1.0000)
+tensor(-0.7326)
+tensor(0.0803)
+q_hat: 0.0028562992811203
+scores: tensor(0.9964)
+tensor(-0.7962)
+tensor(0.0409)
+q_hat: 0.0028562992811203
+scores: tensor(0.9704)
+tensor(-0.7962)
+tensor(0.0675)
+q_hat: 0.0028562992811203
+scores: tensor(0.9793)
+tensor(-0.9249)
+tensor(0.0230)
+q_hat: 0.0028562992811203
+scores: tensor(0.8847)
+tensor(-0.9567)
+tensor(0.0287)
+q_hat: 0.0028562992811203
+scores: tensor(0.9998)
+tensor(-0.9881)
+tensor(0.0318)
+q_hat: 0.0028562992811203
+scores: tensor(0.9982)
+tensor(-0.9881)
+tensor(0.0347)
+q_hat: 0.0028562992811203
+scores: tensor(0.9921)
+tensor(-0.7123)
+tensor(0.0103)
+q_hat: 0.0028562992811203
+scores: tensor(0.9830)
+tensor(-0.8695)
+tensor(0.0149)
+q_hat: 0.0028562992811203
+scores: tensor(0.9939)
+tensor(-0.7552)
+tensor(0.0254)
+q_hat: 0.0028562992811203
+scores: tensor(0.9998)
+tensor(-0.8203)
+tensor(0.0447)
+q_hat: 0.0028562992811203
+scores: tensor(0.9975)
+tensor(-0.9332)
+tensor(0.0152)
+q_hat: 0.0028562992811203
+scores: tensor(0.9975)
+tensor(-0.9332)
+tensor(0.0132)
+q_hat: 0.0028562992811203
+scores: tensor(0.9994)
+tensor(-0.9498)
+tensor(0.0210)
+q_hat: 0.0028562992811203
+scores: tensor(0.9947)
+tensor(-0.6838)
+tensor(0.0268)
+q_hat: 0.0028562992811203
+scores: tensor(0.9947)
+tensor(-0.7729)
+tensor(0.0312)
+q_hat: 0.0028562992811203
+scores: tensor(0.9877)
+tensor(-0.6825)
+tensor(0.0164)
+q_hat: 0.0028562992811203
+scores: tensor(0.9978)
+tensor(-0.7457)
+tensor(0.0310)
+q_hat: 0.0028562992811203
+scores: tensor(0.9634)
+tensor(-0.7035)
+tensor(0.0304)
+q_hat: 0.0028562992811203
+scores: tensor(0.9999)
+tensor(-0.9616)
+tensor(0.0233)
+q_hat: 0.0028562992811203
+scores: tensor(0.9914)
+tensor(-0.6923)
+tensor(0.0355)
+q_hat: 0.0028562992811203
+scores: tensor(0.9781)
+tensor(-0.7489)
+tensor(0.0319)
+q_hat: 0.0028562992811203
+scores: tensor(0.9933)
+tensor(-0.7489)
+tensor(0.0524)
+q_hat: 0.0028562992811203
+scores: tensor(0.9928)
+tensor(-0.7424)
+tensor(0.0241)
+q_hat: 0.0028562992811203
+scores: tensor(0.9910)
+tensor(-0.8838)
+tensor(0.0294)
+q_hat: 0.0028562992811203
+scores: tensor(0.9975)
+tensor(-0.8540)
+tensor(-0.0075)
+q_hat: 0.0028562992811203
+scores: tensor(0.9986)
+tensor(-0.7818)
+tensor(0.0388)
+q_hat: 0.0028562992811203
+scores: tensor(0.9081)
+tensor(-0.7921)
+tensor(0.0284)
+q_hat: 0.0028562992811203
+scores: tensor(0.9940)
+tensor(-0.9054)
+tensor(0.0372)
+q_hat: 0.0028562992811203
+scores: tensor(0.9940)
+tensor(-0.8292)
+tensor(0.0416)
+q_hat: 0.0028562992811203
+scores: tensor(0.9845)
+tensor(-0.7449)
+tensor(0.0416)
+q_hat: 0.0028562992811203
+scores: tensor(0.9971)
+tensor(-0.9466)
+tensor(0.0226)
+q_hat: 0.0028562992811203
+scores: tensor(0.9983)
+tensor(-0.9811)
+tensor(0.0206)
+q_hat: 0.0028562992811203
+scores: tensor(0.9892)
+tensor(-0.9811)
+tensor(0.0202)
+q_hat: 0.0028562992811203
+scores: tensor(0.9958)
+tensor(-0.7408)
+tensor(0.0279)
+q_hat: 0.0028562992811203
+scores: tensor(0.9947)
+tensor(-0.8395)
+tensor(0.0279)
+q_hat: 0.0028562992811203
+scores: tensor(0.9947)
+tensor(-0.8283)
+tensor(0.0414)
+q_hat: 0.0028562992811203
+scores: tensor(0.9947)
+tensor(-0.8283)
+tensor(0.0433)
+q_hat: 0.0028562992811203
+scores: tensor(0.9889)
+tensor(-0.9090)
+tensor(0.0534)
+q_hat: 0.0028562992811203
+scores: tensor(0.8007)
+tensor(-0.7540)
+tensor(0.0221)
+q_hat: 0.0028562992811203
+scores: tensor(0.9924)
+tensor(-0.7540)
+tensor(0.0284)
+q_hat: 0.0028562992811203
+scores: tensor(0.9389)
+tensor(-0.6809)
+tensor(0.0021)
+q_hat: 0.0028562992811203
+scores: tensor(0.8917)
+tensor(-0.7255)
+tensor(0.0200)
+q_hat: 0.0028562992811203
+scores: tensor(0.9945)
+tensor(-0.8382)
+tensor(0.0307)
+q_hat: 0.0028562992811203
+scores: tensor(0.8682)
+tensor(-0.8382)
+tensor(0.0338)
+q_hat: 0.0028562992811203
+scores: tensor(0.9911)
+tensor(-0.6375)
+tensor(0.0533)
+q_hat: 0.0028562992811203
+scores: tensor(0.9987)
+tensor(-0.8891)
+tensor(0.0326)
+q_hat: 0.0028562992811203
+scores: tensor(0.9738)
+tensor(-0.8891)
+tensor(0.0290)
+q_hat: 0.0028562992811203
+scores: tensor(0.9969)
+tensor(-0.8265)
+tensor(0.0294)
+q_hat: 0.0137463808059692
+scores: tensor(0.9502)
+tensor(-0.4236)
+tensor(0.0290)
+q_hat: 0.0137463808059692
+scores: tensor(0.9841)
+tensor(-0.5063)
+tensor(0.0169)
+q_hat: 0.0137463808059692
+scores: tensor(0.9958)
+tensor(-0.9974)
+tensor(0.0352)
+q_hat: 0.0137463808059692
+scores: tensor(0.9951)
+tensor(-0.9881)
+tensor(0.0204)
+q_hat: 0.0137463808059692
+scores: tensor(0.9386)
+tensor(-0.6619)
+tensor(-0.0027)
+q_hat: 0.0137463808059692
+scores: tensor(0.9657)
+tensor(-0.7255)
+tensor(0.0208)
+q_hat: 0.0137463808059692
+scores: tensor(0.9807)
+tensor(-0.7494)
+tensor(0.0189)
+q_hat: 0.0137463808059692
+scores: tensor(0.9948)
+tensor(-0.8771)
+tensor(0.0348)
+q_hat: 0.0137463808059692
+scores: tensor(0.9948)
+tensor(-0.6516)
+tensor(0.0146)
+q_hat: 0.0137463808059692
+scores: tensor(0.9594)
+tensor(-0.7498)
+tensor(0.0136)
+q_hat: 0.0137463808059692
+scores: tensor(1.0000)
+tensor(-0.7326)
+tensor(0.0803)
+q_hat: 0.0137463808059692
+scores: tensor(0.9964)
+tensor(-0.7962)
+tensor(0.0409)
+q_hat: 0.0137463808059692
+scores: tensor(0.9704)
+tensor(-0.7962)
+tensor(0.0675)
+q_hat: 0.0137463808059692
+scores: tensor(0.9793)
+tensor(-0.9249)
+tensor(0.0230)
+q_hat: 0.0137463808059692
+scores: tensor(0.8847)
+tensor(-0.9567)
+tensor(0.0287)
+q_hat: 0.0137463808059692
+scores: tensor(0.9998)
+tensor(-0.9881)
+tensor(0.0318)
+q_hat: 0.0137463808059692
+scores: tensor(0.9982)
+tensor(-0.9881)
+tensor(0.0347)
+q_hat: 0.0137463808059692
+scores: tensor(0.9921)
+tensor(-0.7123)
+tensor(0.0103)
+q_hat: 0.0137463808059692
+scores: tensor(0.9830)
+tensor(-0.8695)
+tensor(0.0149)
+q_hat: 0.0137463808059692
+scores: tensor(0.9939)
+tensor(-0.7552)
+tensor(0.0254)
+q_hat: 0.0137463808059692
+scores: tensor(0.9998)
+tensor(-0.8203)
+tensor(0.0447)
+q_hat: 0.0137463808059692
+scores: tensor(0.9975)
+tensor(-0.9332)
+tensor(0.0152)
+q_hat: 0.0137463808059692
+scores: tensor(0.9975)
+tensor(-0.9332)
+tensor(0.0132)
+q_hat: 0.0137463808059692
+scores: tensor(0.9994)
+tensor(-0.9498)
+tensor(0.0210)
+q_hat: 0.0137463808059692
+scores: tensor(0.9947)
+tensor(-0.6838)
+tensor(0.0268)
+q_hat: 0.0137463808059692
+scores: tensor(0.9947)
+tensor(-0.7729)
+tensor(0.0312)
+q_hat: 0.0137463808059692
+scores: tensor(0.9877)
+tensor(-0.6825)
+tensor(0.0164)
+q_hat: 0.0137463808059692
+scores: tensor(0.9978)
+tensor(-0.7457)
+tensor(0.0310)
+q_hat: 0.0137463808059692
+scores: tensor(0.9634)
+tensor(-0.7035)
+tensor(0.0304)
+q_hat: 0.0137463808059692
+scores: tensor(0.9999)
+tensor(-0.9616)
+tensor(0.0233)
+q_hat: 0.0137463808059692
+scores: tensor(0.9914)
+tensor(-0.6923)
+tensor(0.0355)
+q_hat: 0.0137463808059692
+scores: tensor(0.9781)
+tensor(-0.7489)
+tensor(0.0319)
+q_hat: 0.0137463808059692
+scores: tensor(0.9933)
+tensor(-0.7489)
+tensor(0.0524)
+q_hat: 0.0137463808059692
+scores: tensor(0.9928)
+tensor(-0.7424)
+tensor(0.0241)
+q_hat: 0.0137463808059692
+scores: tensor(0.9910)
+tensor(-0.8838)
+tensor(0.0294)
+q_hat: 0.0137463808059692
+scores: tensor(0.9975)
+tensor(-0.8540)
+tensor(-0.0075)
+q_hat: 0.0137463808059692
+scores: tensor(0.9986)
+tensor(-0.7818)
+tensor(0.0388)
+q_hat: 0.0137463808059692
+scores: tensor(0.9081)
+tensor(-0.7921)
+tensor(0.0284)
+q_hat: 0.0137463808059692
+scores: tensor(0.9940)
+tensor(-0.9054)
+tensor(0.0372)
+q_hat: 0.0137463808059692
+scores: tensor(0.9940)
+tensor(-0.8292)
+tensor(0.0416)
+q_hat: 0.0137463808059692
+scores: tensor(0.9845)
+tensor(-0.7449)
+tensor(0.0416)
+q_hat: 0.0137463808059692
+scores: tensor(0.9971)
+tensor(-0.9466)
+tensor(0.0226)
+q_hat: 0.0137463808059692
+scores: tensor(0.9983)
+tensor(-0.9811)
+tensor(0.0206)
+q_hat: 0.0137463808059692
+scores: tensor(0.9892)
+tensor(-0.9811)
+tensor(0.0202)
+q_hat: 0.0137463808059692
+scores: tensor(0.9958)
+tensor(-0.7408)
+tensor(0.0279)
+q_hat: 0.0137463808059692
+scores: tensor(0.9947)
+tensor(-0.8395)
+tensor(0.0279)
+q_hat: 0.0137463808059692
+scores: tensor(0.9947)
+tensor(-0.8283)
+tensor(0.0414)
+q_hat: 0.0137463808059692
+scores: tensor(0.9947)
+tensor(-0.8283)
+tensor(0.0433)
+q_hat: 0.0137463808059692
+scores: tensor(0.9889)
+tensor(-0.9090)
+tensor(0.0534)
+q_hat: 0.0137463808059692
+scores: tensor(0.8007)
+tensor(-0.7540)
+tensor(0.0221)
+q_hat: 0.0137463808059692
+scores: tensor(0.9924)
+tensor(-0.7540)
+tensor(0.0284)
+q_hat: 0.0137463808059692
+scores: tensor(0.9389)
+tensor(-0.6809)
+tensor(0.0021)
+q_hat: 0.0137463808059692
+scores: tensor(0.8917)
+tensor(-0.7255)
+tensor(0.0200)
+q_hat: 0.0137463808059692
+scores: tensor(0.9945)
+tensor(-0.8382)
+tensor(0.0307)
+q_hat: 0.0137463808059692
+scores: tensor(0.8682)
+tensor(-0.8382)
+tensor(0.0338)
+q_hat: 0.0137463808059692
+scores: tensor(0.9911)
+tensor(-0.6375)
+tensor(0.0533)
+q_hat: 0.0137463808059692
+scores: tensor(0.9987)
+tensor(-0.8891)
+tensor(0.0326)
+q_hat: 0.0137463808059692
+scores: tensor(0.9738)
+tensor(-0.8891)
+tensor(0.0290)
+q_hat: 0.0137463808059692
+scores: tensor(0.9969)
+tensor(-0.8265)
+tensor(0.0294)
+softmax
+acc: [0.8722341184867951, 0.6510315760851093, 0.5701369769892254, 0.48458584004622546]
+softmax_drop
+acc: [0.9642772169538765, 0.8560551986676184, 0.7724414533836376, 0.7242785765269706]
+MORF
+acc: [0.9572754155195269, 0.7685666700655994, 0.7105808776044322, 0.6611943849631216]
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.2215e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.2215e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.2215e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(5.0898e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(5.0898e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(5.0898e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.4500e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.4500e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.4500e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(7.2832e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(7.2832e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(7.2832e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.1490e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.1490e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.1490e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.9179e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.9179e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.9179e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.7552e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.7552e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.7552e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.6293e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(2.5302e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(2.5302e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(2.5302e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.1048e-12)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.1048e-12)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.1048e-12)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.1700e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.1619e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.5143e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.5143e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.5143e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0246e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.2320e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.2320e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(2.2320e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.1474e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.3721e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.3721e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.3721e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.9404e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(7.8256e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(7.8256e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(7.8256e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(0.9999)
+tensor(1.6587e-11)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(0.9999)
+tensor(1.6587e-11)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(0.9999)
+tensor(1.6587e-11)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(7.7962e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(7.7962e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(7.7962e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(1.9351e-24)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(1.9351e-24)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(1.9351e-24)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.8312e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.8312e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.8312e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(6.0947e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.8528e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.8528e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.8528e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.6939e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.6939e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.6939e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.3621e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.3621e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.3621e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(4.1182e-26)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(4.1182e-26)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(4.1182e-26)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0984e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(2.6160e-18)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(2.6160e-18)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(2.6160e-18)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.6530e-11)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.6530e-11)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.6530e-11)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(5.2001e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(5.2001e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(5.2001e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(0.9999)
+tensor(5.4280e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(0.9999)
+tensor(5.4280e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(0.9999)
+tensor(5.4280e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0705e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0705e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0705e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(1.5689e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(1.5689e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.)
+tensor(1.5689e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0224e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0224e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0224e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.4425e-16)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.8886e-12)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.7315e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.7315e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.7315e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.6502e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.6502e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.6502e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(4.1871e-17)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(8.5152e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(0.9999)
+tensor(4.0847e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(0.9999)
+tensor(4.0847e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(0.9999)
+tensor(4.0847e-15)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0853e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0853e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.0853e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.3340e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.3340e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(9.3340e-14)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.5778e-11)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.5778e-11)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.5778e-11)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.8783e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.8783e-13)
+tensor(0.1667)
+q_hat: 0.0016499364282935858
+scores: tensor(1.0000)
+tensor(1.8783e-13)
+tensor(0.1667)
+dataset: 29421
+total validation easy: 10552
+Total validation hard: 18869
+total validation hard in: 18869
+Accuracy of hard prediction sets using interpretability: (tensor(0.6138), tensor(0.7899), tensor(0.8721))

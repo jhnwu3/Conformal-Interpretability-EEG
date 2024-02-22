@@ -1,0 +1,10 @@
+train sub 288
+74572 8498 29421
+59657 8498 29421 14915
+ROAD SCORE
+alpha, q_hat, prediction set, prediction set length
+0.001 , -4.9329033 , [array(4), array(2), array(1), array(3), array(0), array(5)] , 6
+alpha, q_hat, prediction set, prediction set length
+0.01 , -3.3472078 , [array(1), array(0), array(2), array(4), array(3), array(5)] , 6
+alpha, q_hat, prediction set, prediction set length
+0.05 , -2.2858438 , [array(2), array(3), array(1), array(5), array(4), array(0)] , 6
