@@ -4,6 +4,8 @@ This project attempts to combine two different ideas into one framework for EEG 
 
 ![Case Study](fig/InterpretabilityCaseStudy.drawio.png)
 
+In particular, we have that the red text symbolizes classes within a prediction set and the red highlights the attention visualization on the original EEG signal.
+
 The original idea was to leverage conformal prediction to best identify and narrow down which class of brain activity was most likely with some theoretical guarantees to contain the ground truth class, and then utilize the attention mechanism to narrow down the local raw signal that just so happened to be associated with each prediction in the prediction set.
 
 However, there are currently some main limitations that I'll quickly summarize here that really killed this project's further development. 
